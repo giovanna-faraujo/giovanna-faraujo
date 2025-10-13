@@ -1,4 +1,7 @@
-## 👋 Olá!
+## 👋 Olá, seja bem-vindo(a)!
+
+---
+*Atualmente, estou me especializando em **Análise de Dados**, com o objetivo de **transformar informações em insights estratégicos*.
 
 ---
 **Ferramentas & Tecnologias:**  
