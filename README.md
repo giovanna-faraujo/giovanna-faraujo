@@ -9,3 +9,5 @@ Atualmente, estou me especializando em Análise de Dados para transformar inform
 
 🌍 Idiomas: Espanhol — Fluente | Inglês — Em desenvolvimento
 
+
+
