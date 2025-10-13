@@ -8,7 +8,7 @@ Atualmente, estou me especializando em **Análise de Dados**, com o objetivo de 
 
 
 ## *Em aprendizado*  
-🎯 **Ferramentas & Tecnologias:**  
+**Ferramentas & Tecnologias:**  
 - **Excel Avançado**  
 - **Power BI Avançado**  
 - **Tableau (Básico)**  
@@ -18,7 +18,7 @@ Atualmente, estou me especializando em **Análise de Dados**, com o objetivo de 
 
 
 
-## 🌍 *Idiomas*  
+## *Idiomas*  
 - **Espanhol:** Fluente  
 - **Inglês:** Em desenvolvimento  
 
