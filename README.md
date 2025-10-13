@@ -1,13 +1,30 @@
-### Olá 👋
-
-Sobre mim: Trabalho com Suporte Técnico, acompanhando tickets e realizando apresentações de resultados aos clientes.
-Atualmente, estou me especializando em Análise de Dados para transformar informações em insights úteis.
+# 👋 Olá, seja bem-vindo(a)!
 
 
-🚀 Em aprendizado: Excel Avançado | Power BI Avançado | Tableau (Básico) | Grafana (Básico) | Looker Studio (Básico) | SQL Avançado
+## 💡 Sobre mim  
+Sou profissional de **Suporte Técnico**, com experiência no **acompanhamento de tickets** e na **apresentação de resultados aos clientes**.  
+Atualmente, estou me especializando em **Análise de Dados**, com o objetivo de **transformar informações em insights estratégicos**.
 
 
-🌍 Idiomas: Espanhol — Fluente | Inglês — Em desenvolvimento
+
+## 🚀 Em aprendizado  
+🎯 **Ferramentas & Tecnologias:**  
+- 📊 **Excel Avançado**  
+- 📈 **Power BI Avançado**  
+- 📉 **Tableau (Básico)**  
+- 📡 **Grafana (Básico)**  
+- 📘 **Looker Studio (Básico)**  
+- 🧠 **SQL Avançado**
+
+
+
+## 🌍 Idiomas  
+- 🇪🇸 **Espanhol:** Fluente  
+- 🇬🇧 **Inglês:** Em desenvolvimento  
+
+
+
+✨ *Buscando sempre aprender, evoluir e transformar dados em soluções inteligentes.*  
 
 
 
