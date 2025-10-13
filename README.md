@@ -24,7 +24,8 @@ Atualmente, estou me especializando em **Análise de Dados**, com o objetivo de 
 
 
 
-✨ *Buscando sempre aprender, evoluir e transformar dados em soluções inteligentes.*  
+
+✨ ### *Buscando sempre aprender, evoluir e transformar dados em soluções inteligentes.*  
 
 
 
