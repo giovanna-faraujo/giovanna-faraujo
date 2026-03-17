@@ -1,8 +1,10 @@
 ## 👋 Olá
 
+---
 
 ### *Tenho o objetivo de transformar informações em insights estratégicos.*
 
+---
 
 **Ferramentas & Tecnologias:**  
 <p align="left">
