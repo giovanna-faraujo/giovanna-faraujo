@@ -1,5 +1,5 @@
 ## 👋 Olá
-
+---
 
 ### *Transformo informações em insights estratégicos.*
 
