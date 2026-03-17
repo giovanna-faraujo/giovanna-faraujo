@@ -1,9 +1,9 @@
-## 👋 Olá, seja bem-vindo(a)!
+## 👋 Olá
 
----
-### *Estou me especializando em Análise de Dados, com o objetivo de transformar informações em insights estratégicos.*
 
----
+### *Tenho o objetivo de transformar informações em insights estratégicos.*
+
+
 **Ferramentas & Tecnologias:**  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
