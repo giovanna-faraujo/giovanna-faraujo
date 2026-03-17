@@ -2,7 +2,7 @@
 
 ---
 
-### *Tenho o objetivo de transformar informações em insights estratégicos.*
+### *Transformo informações em insights estratégicos.*
 
 ---
 
