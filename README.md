@@ -6,13 +6,15 @@
 
 ---
 
-## Sobre mim 🙋‍♀️
+## Sobre mim
 
 Olá! Sou a Giovanna, analista de dados em formação, apaixonada por transformar informações em algo útil e compreensível para qualquer pessoa.
 
 Tenho formação em **Análise e Desenvolvimento de Sistemas** e estou me especializando em **Análise de Dados**. Gosto de entender os dados por trás de cada processo e de criar visualizações que ajudam equipes a tomar decisões com mais clareza e confiança.
 
-Acredito que dados bem usados fazem diferença no dia a dia de qualquer empresa, independente do tamanho ou setor.
+Também estou aprendendo sobre **automação de processos**, uma área que caminha lado a lado com a análise de dados. Automatizar tarefas repetitivas libera tempo para o que realmente importa: interpretar os dados e gerar valor para o negócio.
+
+Acredito que dados bem usados, aliados a processos mais inteligentes, fazem diferença no dia a dia de qualquer empresa, independente do tamanho ou setor.
 
 ---
 
@@ -20,11 +22,11 @@ Acredito que dados bem usados fazem diferença no dia a dia de qualquer empresa,
 
 Toda empresa gera dados o tempo todo: vendas, atendimentos, processos, finanças. O problema é que, sem organização e análise, essas informações ficam perdidas.
 
-Com análise de dados é possível:
+Com análise de dados e automação é possível:
 
 - Entender o que está funcionando bem e o que precisa melhorar
 - Tomar decisões com base em fatos, não em suposições
-- Economizar tempo identificando gargalos e tarefas repetitivas
+- Eliminar tarefas repetitivas e ganhar tempo para o que realmente importa
 - Acompanhar resultados de forma visual e fácil de interpretar
 
 ---
@@ -55,9 +57,17 @@ Com análise de dados é possível:
 
 ---
 
+## Meus projetos 📂
+
+> Nos repositórios abaixo você encontra projetos de análise de dados, com dashboards e relatórios que mostram, na prática, como trabalho com dados.
+
+Cada projeto tem uma explicação simples do **problema**, da **solução** e dos **resultados**, para que qualquer pessoa consiga entender o que foi feito e por quê.
+
+---
+
 ## Vamos conversar? 📬
 
 Se você tem uma empresa que quer aproveitar melhor os próprios dados, ou uma oportunidade de trabalho na área de análise, ficarei feliz em conversar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanna%20Ferreira%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna-faraujo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanna%20Ferreira%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-f-araujo/)
 [![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
