@@ -1,82 +1,74 @@
-# Olá! 👋
+# Olá! 👋 Sou a Giovanna Ferreira Araujo
 
-### Dados & Automações · Brasil
+**Analista de Dados | Business Intelligence | Automação de Processos**
 
-📍 Brasil &nbsp;|&nbsp; 🌐 Disponível para trabalho remoto
+📍 Brasil | 🌐 Disponível para trabalho remoto  
+💼 [LinkedIn](https://linkedin.com/in/giovanna-f-araujo) • 🌐 [Meu Site](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
----
-
-## Sobre mim
-
-Transformo dados em decisões mais claras e tarefas em processos mais eficientes.
-
-Sou analista de dados com formação em **Análise e Desenvolvimento de Sistemas**, especialização em andamento em **Análise de Dados**, e experiência prática com dashboards, relatórios e automação de processos.
-
-Trabalho para que empresas e negócios consigam acompanhar seus resultados com mais clareza, reduzir tarefas manuais e tomar decisões com mais confiança, usando as ferramentas que já fazem parte da sua rotina ou novas soluções adaptadas à sua realidade.
+[![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blue?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
 ---
 
-## O que posso fazer pelo seu negócio 💡
+## 🎯 Sobre Mim
 
-Toda empresa gera dados o tempo todo: vendas, atendimentos, processos, finanças. Sem organização e análise, essas informações ficam perdidas e as decisões acabam sendo tomadas no achismo.
+Analista de dados com formação em Análise e Desenvolvimento de Sistemas, especializada em transformar dados dispersos em insights acionáveis.
 
-Com dados bem estruturados e processos automatizados, é possível:
-
-- Ter uma visão clara do que está funcionando e do que precisa melhorar
-- Tomar decisões com base em informações reais, não em suposições
-- Eliminar tarefas repetitivas e liberar tempo para o que realmente importa
-- Acompanhar resultados por meio de painéis visuais, fáceis de entender
+**O que entrego:**
+- ✅ Dashboards que respondem perguntas reais de negócio
+- ⚙️ Automações que economizam horas de trabalho manual
+- 📊 Relatórios que facilitam a tomada de decisão
 
 ---
 
-## Como posso te ajudar 🤝
+## 🛠️ Ferramentas
 
-- 📊 **Dashboards e relatórios** para acompanhar resultados no dia a dia
-- ⚙️ **Automações** para reduzir tarefas manuais e tornar a rotina mais eficiente
-- 🗂️ **Organização de dados** espalhados em planilhas e sistemas
-- 🎯 **Definição de indicadores** que realmente fazem sentido para o seu negócio
-- 📋 **Relatórios gerenciais** claros e prontos para reuniões e apresentações
-
----
-
-## Ferramentas que uso 🛠️
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
-## Idiomas 🌍
+## 📂 Projetos em Destaque
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Português-Nativo-009C3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Espanhol-Fluente-FF4B4B?style=for-the-badge&logo=google-translate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inglês-Em%20Desenvolvimento-0078D6?style=for-the-badge&logo=google-translate&logoColor=white"/>
-</p>
+### 🏨 Gestão de Ocupação e Reservas
+*Dashboard para hotéis e pousadas acompanharem taxa de ocupação e faturamento*  
+🔹 **Solução:** Monitoramento mensal + Automação de confirmação de reservas  
+👉 [Ver detalhes e exemplos](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/#hoteis)
+
+### 🏢 Performance Imobiliária
+*Análise de valorização de m² e gestão de carteira de imóveis*  
+🔹 **Solução:** Dashboard de performance + Atualização automática de carteira  
+👉 [Ver detalhes e exemplos](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/#imoveis)
+
+### 📈 Dashboard de Vendas
+*Acompanhamento de faturamento e métricas de performance*  
+🔹 **Solução:** Painel interativo com KPIs em tempo real  
+👉 [Ver detalhes e exemplos](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/#vendas)
+
+🌐 **[Explorar todas as soluções](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)**
 
 ---
 
-## Meus projetos 📂
+## 📊 Como Posso Ajudar
 
-> Nos repositórios abaixo você encontra projetos de análise de dados, com dashboards e relatórios que mostram, na prática, como trabalho com dados.
-
-Cada projeto tem uma explicação simples do **problema**, da **solução** e dos **resultados**, para que qualquer pessoa consiga entender o que foi feito e por quê.
+| Serviço | Impacto |
+|---------|---------|
+| **📊 Dashboards** | KPIs claros para decisões rápidas |
+| **⚙️ Automações** | Até 80% menos tarefas manuais |
+| **📈 Análises** | Insights baseados em dados reais |
 
 ---
 
-## Vamos conversar? 📬
+## 💬 Vamos Conversar?
 
-Se você quer acompanhar seus resultados com mais clareza, reduzir tarefas manuais ou simplesmente entender como os dados podem ajudar o seu negócio, estou à disposição para te ajudar.
+Estou aberta a oportunidades e parcerias!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanna%20Ferreira%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-f-araujo/)
-[![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
+📧 **Email:** contato.giovanna.ferreira.araujo@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/giovanna-f-araujo](https://linkedin.com/in/giovanna-f-araujo)  
+🌐 **Portfólio:** [giovannaferreira-solucoes](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
+---
+
+<p align="center">Feito com 💜 por Giovanna Ferreira Araujo</p>
