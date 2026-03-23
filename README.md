@@ -1,4 +1,4 @@
-# Olá, eu sou a Giovanna! 👋
+# Olá! 👋
 
 ### Dados & Automações · Brasil
 
