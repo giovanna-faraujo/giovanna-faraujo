@@ -1,4 +1,4 @@
-# Olá! 👋 Sou a Giovanna Ferreira Araujo
+# Olá! 👋
 
 **Analista de Dados | Business Intelligence | Automação de Processos**
 
