@@ -1,6 +1,6 @@
 # Olá, eu sou a Giovanna! 👋
 
-**Analista de Dados & Business Intelligence · Brasil**
+### Dados & Automações · Brasil
 
 📍 Brasil &nbsp;|&nbsp; 🌐 Disponível para trabalho remoto
 
@@ -8,26 +8,34 @@
 
 ## Sobre mim
 
-Olá! Sou a Giovanna, analista de dados em formação, apaixonada por transformar informações em algo útil e compreensível para qualquer pessoa.
+Transformo dados em decisões mais claras e tarefas em processos mais eficientes.
 
-Tenho formação em **Análise e Desenvolvimento de Sistemas** e estou me especializando em **Análise de Dados**. Gosto de entender os dados por trás de cada processo e de criar visualizações que ajudam equipes a tomar decisões com mais clareza e confiança.
+Sou analista de dados com formação em **Análise e Desenvolvimento de Sistemas**, especialização em andamento em **Análise de Dados**, e experiência prática com dashboards, relatórios e automação de processos.
 
-Também estou aprendendo sobre **automação de processos**, uma área que caminha lado a lado com a análise de dados. Automatizar tarefas repetitivas libera tempo para o que realmente importa: interpretar os dados e gerar valor para o negócio.
-
-Acredito que dados bem usados, aliados a processos mais inteligentes, fazem diferença no dia a dia de qualquer empresa, independente do tamanho ou setor.
+Trabalho para que empresas e negócios consigam acompanhar seus resultados com mais clareza, reduzir tarefas manuais e tomar decisões com mais confiança, usando as ferramentas que já fazem parte da sua rotina ou novas soluções adaptadas à sua realidade.
 
 ---
 
-## Por que análise de dados importa? 💡
+## O que posso fazer pelo seu negócio 💡
 
-Toda empresa gera dados o tempo todo: vendas, atendimentos, processos, finanças. O problema é que, sem organização e análise, essas informações ficam perdidas.
+Toda empresa gera dados o tempo todo: vendas, atendimentos, processos, finanças. Sem organização e análise, essas informações ficam perdidas e as decisões acabam sendo tomadas no achismo.
 
-Com análise de dados e automação é possível:
+Com dados bem estruturados e processos automatizados, é possível:
 
-- Entender o que está funcionando bem e o que precisa melhorar
-- Tomar decisões com base em fatos, não em suposições
-- Eliminar tarefas repetitivas e ganhar tempo para o que realmente importa
-- Acompanhar resultados de forma visual e fácil de interpretar
+- Ter uma visão clara do que está funcionando e do que precisa melhorar
+- Tomar decisões com base em informações reais, não em suposições
+- Eliminar tarefas repetitivas e liberar tempo para o que realmente importa
+- Acompanhar resultados por meio de painéis visuais, fáceis de entender
+
+---
+
+## Como posso te ajudar 🤝
+
+- 📊 **Dashboards e relatórios** para acompanhar resultados no dia a dia
+- ⚙️ **Automações** para reduzir tarefas manuais e tornar a rotina mais eficiente
+- 🗂️ **Organização de dados** espalhados em planilhas e sistemas
+- 🎯 **Definição de indicadores** que realmente fazem sentido para o seu negócio
+- 📋 **Relatórios gerenciais** claros e prontos para reuniões e apresentações
 
 ---
 
@@ -67,7 +75,8 @@ Cada projeto tem uma explicação simples do **problema**, da **solução** e do
 
 ## Vamos conversar? 📬
 
-Se você tem uma empresa que quer aproveitar melhor os próprios dados, ou uma oportunidade de trabalho na área de análise, ficarei feliz em conversar!
+Se você quer acompanhar seus resultados com mais clareza, reduzir tarefas manuais ou simplesmente entender como os dados podem ajudar o seu negócio, estou à disposição para te ajudar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanna%20Ferreira%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-f-araujo/)
 [![E-mail](https://img.shields.io/badge/E--mail-Entrar%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
+
