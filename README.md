@@ -10,7 +10,7 @@
 
 ### Sobre Mim
 
-Analista de dados com formação em Análise e Desenvolvimento de Sistemas, especializada em transformar dados dispersos em insights acionáveis.
+Analista de dados formada em Análise e Desenvolvimento de Sistemas, focada em transformar dados em informações úteis para apoiar decisões.
 
 **O que entrego:**
 - ✅ Dashboards que respondem perguntas reais de negócio
