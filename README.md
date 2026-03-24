@@ -1,5 +1,7 @@
 # Olá! 👋
 
+---
+
 **Analista de Dados | Business Intelligence | Automação de Processos**
 
 [![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
@@ -35,5 +37,3 @@ Estou aberta a oportunidades e parcerias!
 🌐 **Portfólio:** [giovannaferreira-solucoes](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
 ---
-
-<p align="center">Feito com 💜 por Giovanna Ferreira Araujo</p>
