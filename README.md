@@ -26,16 +26,6 @@ Analista de dados com formação em Análise e Desenvolvimento de Sistemas, espe
 
 ---
 
-## Como Posso Ajudar
-
-| Serviço | Impacto |
-|---------|---------|
-| **📊 Dashboards** | KPIs claros para decisões rápidas |
-| **⚙️ Automações** | Até 80% menos tarefas manuais |
-| **📈 Análises** | Insights baseados em dados reais |
-
----
-
 ## 💬 Vamos Conversar?
 
 Estou aberta a oportunidades e parcerias!
