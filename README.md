@@ -1,4 +1,4 @@
-# Olá! 👋
+## Olá! 👋
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Sobre Mim
+### Sobre Mim
 
 Analista de dados com formação em Análise e Desenvolvimento de Sistemas, especializada em transformar dados dispersos em insights acionáveis.
 
@@ -19,7 +19,7 @@ Analista de dados com formação em Análise e Desenvolvimento de Sistemas, espe
 
 ---
 
-## Ferramentas
+### Ferramentas
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
@@ -28,7 +28,7 @@ Analista de dados com formação em Análise e Desenvolvimento de Sistemas, espe
 
 ---
 
-## 💬 Vamos Conversar?
+### 💬 Vamos Conversar?
 
 Estou aberta a oportunidades e parcerias!
 
