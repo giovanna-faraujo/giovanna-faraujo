@@ -26,7 +26,6 @@ Analista de dados com formação em Análise e Desenvolvimento de Sistemas, espe
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
