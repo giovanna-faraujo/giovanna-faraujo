@@ -30,27 +30,6 @@ Analista de dados com formação em Análise e Desenvolvimento de Sistemas, espe
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🏨 Gestão de Ocupação e Reservas
-*Dashboard para hotéis e pousadas acompanharem taxa de ocupação e faturamento*  
-🔹 **Solução:** Monitoramento mensal + Automação de confirmação de reservas  
-👉 [Ver detalhes e exemplos](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/#hoteis)
-
-### 🏢 Performance Imobiliária
-*Análise de valorização de m² e gestão de carteira de imóveis*  
-🔹 **Solução:** Dashboard de performance + Atualização automática de carteira  
-👉 [Ver detalhes e exemplos](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/#imoveis)
-
-### 📈 Dashboard de Vendas
-*Acompanhamento de faturamento e métricas de performance*  
-🔹 **Solução:** Painel interativo com KPIs em tempo real  
-👉 [Ver detalhes e exemplos](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/#vendas)
-
-🌐 **[Explorar todas as soluções](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)**
-
----
-
 ## 📊 Como Posso Ajudar
 
 | Serviço | Impacto |
