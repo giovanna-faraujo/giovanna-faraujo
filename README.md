@@ -5,7 +5,7 @@
 📍 Brasil | 🌐 Disponível para trabalho remoto  
 💼 [LinkedIn](https://linkedin.com/in/giovanna-f-araujo) • 🌐 [Meu Site](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
-[![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blue?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
+[![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
 ---
 
