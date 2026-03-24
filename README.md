@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Sobre Mim
+## Sobre Mim
 
 Analista de dados com formação em Análise e Desenvolvimento de Sistemas, especializada em transformar dados dispersos em insights acionáveis.
 
@@ -29,7 +29,7 @@ Analista de dados com formação em Análise e Desenvolvimento de Sistemas, espe
 
 ---
 
-## 📊 Como Posso Ajudar
+## Como Posso Ajudar
 
 | Serviço | Impacto |
 |---------|---------|
