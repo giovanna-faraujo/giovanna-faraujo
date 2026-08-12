@@ -18,19 +18,27 @@ Atualmente, estou ampliando meus conhecimentos em Redes e Cibersegurança, desen
 
 ---
 
-### Ferramentas
+### Tecnologias e Ferramentas
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+#### Suporte & ITSM
+<img src="https://img.shields.io/badge/ServiceNow-29335A?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft-windows&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune" />
+<img src="https://img.shields.io/badge/Protheus-ED1C24?style=for-the-badge&logo=totvs&logoColor=white" alt="Protheus" />
+
+#### Redes & Cibersegurança
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN" />
+<img src="https://img.shields.io/badge/Mimecast-005A9C?style=for-the-badge&logo=security&logoColor=white" alt="Mimecast" />
+
+#### Dados & Análise
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" alt="Looker Studio" />
 
 ---
 
 ### 💬 Vamos Conversar?
-
-Estou aberta a oportunidades e parcerias!
-
 📧 **Email:** contato.giovanna.ferreira.araujo@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/giovanna-f-araujo](https://linkedin.com/in/giovanna-f-araujo)  
 🌐 **Portfólio:** [giovannaferreira-solucoes](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
