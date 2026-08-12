@@ -17,9 +17,9 @@ Também utilizo SQL e Power BI para análise de informações, indicadores e mel
 Atualmente, estou ampliando meus conhecimentos em Redes e Cibersegurança, desenvolvendo laboratórios, documentações técnicas e estudos de caso práticos.
 
 ---
-### Ferramentas
+### Tecnologias e Ferramentas
 
-**Suporte & ITSM** <img src="https://img.shields.io/badge/ServiceNow-29335A?style=flat-square&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Protheus-ED1C24?style=flat-square&logo=totvs&logoColor=white" />
+**Suporte & ITSM** <img src="https://img.shields.io/badge/ServiceNow-29335A?style=flat-square&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Protheus-ED1C24?style=flat-square&logo=totvs&logoColor=white" />
 
 **Redes & Cibersegurança** <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/VPN-000000?style=flat-square&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/Mimecast-005A9C?style=flat-square&logo=security&logoColor=white" />
 
