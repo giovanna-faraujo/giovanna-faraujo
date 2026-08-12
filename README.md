@@ -2,7 +2,7 @@
 
 ---
 
-**Analista de Dados | Business Intelligence | Automação de Processos**
+**Analista de Suporte de TI | Redes | Cibersegurança | Dados & Automação**
 
 [![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
@@ -10,12 +10,11 @@
 
 ### Sobre Mim
 
-Analista de dados formada em Análise e Desenvolvimento de Sistemas, focada em transformar dados em informações úteis para apoiar decisões.
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo como Analista de Service Desk, com experiência em suporte técnico, gerenciamento de acessos, Microsoft 365, Intune, Active Directory, ServiceNow e ERP Protheus.
 
-**O que entrego:**
-- ✅ Dashboards que respondem perguntas reais de negócio
-- ⚙️ Automações que economizam horas de trabalho manual
-- 📊 Relatórios que facilitam a tomada de decisão
+Também utilizo SQL e Power BI para análise de informações, indicadores e melhoria de processos.
+
+Atualmente, estou ampliando meus conhecimentos em Redes e Cibersegurança, desenvolvendo laboratórios, documentações técnicas e estudos de caso práticos.
 
 ---
 
