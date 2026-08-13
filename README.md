@@ -10,11 +10,12 @@
 
 ### Sobre Mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atuo como Analista de Service Desk, com experiência em suporte técnico, gerenciamento de acessos, Microsoft 365, Intune, Active Directory, ServiceNow e ERP Protheus.
+Sou Analista de Service Desk com formação em Análise e Desenvolvimento de Sistemas e experiência em suporte técnico, atendimento a usuários, administração de ambientes corporativos e melhoria contínua de processos.
 
-Também utilizo SQL e Power BI para análise de informações, indicadores e melhoria de processos.
+Além da atuação em suporte, possuo forte interesse em Análise de Dados e Automação de Processos, desenvolvendo dashboards e indicadores em Power BI, realizando consultas em SQL e buscando soluções que contribuam para a eficiência operacional e apoiem a tomada de decisão.
 
-Atualmente, estou ampliando meus conhecimentos em Redes e Cibersegurança, desenvolvendo laboratórios, documentações técnicas e estudos de caso práticos.
+
+Atualmente, participo do Programa Mulher Digital, aprofundando meus conhecimentos em Cybersecurity, com foco em fundamentos de Segurança da Informação, gestão de acessos, proteção de dados, boas práticas de segurança e tecnologias voltadas à proteção de ambientes corporativos.
 
 ---
 ### Tecnologias e Ferramentas
