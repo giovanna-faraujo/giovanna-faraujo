@@ -2,7 +2,7 @@
 
 ---
 
-**Analista de Suporte de TI | Redes | Cibersegurança | Dados & Automação**
+**Suporte TI N1 | Redes | Cibersegurança | Dados & Automação**
 
 [![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
