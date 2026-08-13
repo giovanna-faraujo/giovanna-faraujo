@@ -10,7 +10,7 @@
 
 ### Sobre Mim
 
-Sou Analista de Service Desk com formação em Análise e Desenvolvimento de Sistemas e experiência em suporte técnico, atendimento a usuários, administração de ambientes corporativos e melhoria contínua de processos.
+Atuo como Analista de Service Desk com formação em Análise e Desenvolvimento de Sistemas e experiência em suporte técnico, atendimento a usuários, administração de ambientes corporativos e melhoria contínua de processos.
 
 Além da atuação em suporte, possuo forte interesse em Análise de Dados e Automação de Processos, desenvolvendo dashboards e indicadores em Power BI, realizando consultas em SQL e buscando soluções que contribuam para a eficiência operacional e apoiem a tomada de decisão.
 
