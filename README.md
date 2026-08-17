@@ -1,5 +1,6 @@
 ## Olá! 👋
 
+---
 
 **Suporte TI N1 | Redes | Cibersegurança | Dados & Automação**
 
