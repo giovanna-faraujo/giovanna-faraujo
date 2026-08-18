@@ -1,13 +1,11 @@
 # Olá! 👋 Sou a Giovanna Ferreira
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/main/banner.png" alt="Giovanna Ferreira - Analista de Service Desk" width="100%" />
-
-  <br/><br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna-f-araujo)
   [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
   [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
+
 </div>
 
 ---
@@ -52,3 +50,5 @@ Atuo como **Analista de Service Desk** com formação em *Análise e Desenvolvim
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googlelookerstudio&logoColor=white)
+
+---
