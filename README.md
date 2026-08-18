@@ -1,8 +1,6 @@
+## Olá! 👋
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/main/banner.png" alt="Giovanna Ferreira - Analista de Service Desk" width="100%" />
-
-  <br/><br/>
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna-f-araujo)
   [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
   [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
