@@ -29,7 +29,7 @@ Atualmente, participo do Programa Mulher Digital, aprofundando meus conhecimento
 ---
 
 ### 💬 Vamos Conversar?
-📧 **Email:** contatogiovanna223@gmail.com  
+📧 **Email:** contato.giovanna.ferreira.araujo@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/giovanna-f-araujo](https://linkedin.com/in/giovanna-f-araujo)  
 🌐 **Portfólio:** [giovannaferreira-solucoes](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
