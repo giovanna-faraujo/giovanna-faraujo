@@ -2,7 +2,7 @@
 
 ---
 
-**Suporte TI N1 | Redes | Cibersegurança | Dados & Automação**
+Analista de Service Desk | Suporte Técnico N1 | Cybersecurity | Microsoft 365 | Microsoft Intune | Active Directory | ServiceNow | ERP Protheus | Power BI | SQL
 
 [![Visite meu site](https://img.shields.io/badge/🌐_Ver_soluções-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
@@ -29,7 +29,7 @@ Atualmente, participo do Programa Mulher Digital, aprofundando meus conhecimento
 ---
 
 ### 💬 Vamos Conversar?
-📧 **Email:** contato.giovanna.ferreira.araujo@gmail.com  
+📧 **Email:** contatogiovanna223@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/giovanna-f-araujo](https://linkedin.com/in/giovanna-f-araujo)  
 🌐 **Portfólio:** [giovannaferreira-solucoes](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
 
