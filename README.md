@@ -1,202 +1,97 @@
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/giovanna-faraujo"> 🔗
-  https://gitfollio.vercel.app/giovanna-faraujo
-</a>
+# Olá! 👋 Sou a Giovanna Ferreira
 
-<!-- GitFolio:start
-{
-  "gitfolio": "on",
-  "name": "Giovanna Ferreira Araujo",
-  "email": "contatogiovanna223@gmail.com",
-  "tagline": "IT Support Analyst | ServiceNow | Microsoft 365 | Active Directory | Microsoft Entra ID | Identity & Access Management (IAM) | Cybersecurity | Power BI | SQL",
-  "avatar_url": "https://avatars.githubusercontent.com/u/237499594?v=4",
-  "website": "https://giovanna-faraujo.github.io/giovannaferreira-solucoes",
-  "githubUser": "giovanna-faraujo",
-  "linkedinUser": "https://www.linkedin.com/in/giovanna-f-araujo/",
-  "about": "Sou analista de sistemas formada, atuando no suporte técnico N1 com experiência em suporte técnico corporativo, gestão de acesso e administração de serviços de TI em ambiente multinacionais. Atuo no atendimento a usuários do México e Brasil, garantindo a continuidade das operações por meio da resolução eficientes, atendimento de requisições e suporte a tecnologias corporativas.",
-  "showStars": true,
-  "showFollowers": true,
-  "followers": 11,
-  "following": 0,
-  "themeId": "cyberpunk",
-  "tech": [
-  " Microsoft 365",
-  "Active Directory",
-  "Entra ID (Azure AD)",
-  "ServiceNow",
-  "ERP Protheus",
-  "Exchange Online",
-  "SharePoint",
-  "Microsoft Teams",
-  "Exchange Online",
-  "Suporte Remoto",
-  "SLA",
-  "Automação",
-  "Power BI",
-  "SQL",
-  "Trello",
-  "Scrum"
-],
-  "projects": [
-  {
-    "id": 1359458456,
-    "repoName": "IA_Google--Labs",
-    "url": "https://github.com/giovanna-faraujo/IA_Google--Labs",
-    "stars": 0,
-    "description": "Este repositório reúne uma seleção dos laboratórios práticos que desenvolvi durante o Certificado Profissional de Inteligência Artificial do Google, realizado pelo Coursera.",
-    "image": "https://private-user-images.githubusercontent.com/237499594/647488419-8cd18399-1aa9-49ed-9bd0-333a74290aec.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTM1OTAsIm5iZiI6MTc4ODgxMzI5MCwicGF0aCI6Ii8yMzc0OTk1OTQvNjQ3NDg4NDE5LThjZDE4Mzk5LTFhYTktNDllZC05YmQwLTMzM2E3NDI5MGFlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDM0NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMWY3ZGM0NWIyODZjZmY4NmMzMzJiM2IwMGEzMDJjM2E5Y2NkNmZkY2UzMzYwYWE1ZWI4NTAyYmM2YTMxY2U3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.S2e64hpT2WKnqiGJI5SsJEdJH21cFVOYCq13rjkPGp0",
-    "techs": [
-      "Inteligência Artificial",
-      "Gemini",
-      "Notebook Google",
-      "IA Studio"
-    ],
-    "deploy": "https://github.com/giovanna-faraujo/IA_Google--Labs",
-    "highlighted": false
-  },
-  {
-    "id": 1341067007,
-    "repoName": "Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C",
-    "url": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C",
-    "stars": 0,
-    "description": "A imagem mostra uma simulação no Cisco Packet Tracer composta por três redes locais distintas (LANs) conectadas a um único roteador central",
-    "image": "https://private-user-images.githubusercontent.com/237499594/639049887-c87e1dee-1aa0-4135-86e2-e418ee63704c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTMzMDEsIm5iZiI6MTc4ODgxMzAwMSwicGF0aCI6Ii8yMzc0OTk1OTQvNjM5MDQ5ODg3LWM4N2UxZGVlLTFhYTAtNDEzNS04NmUyLWU0MThlZTYzNzA0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDMwMDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDk2NmNkYjNmNWUwNzY4NTZlZDY1OWNlYmViZDlhMDYzZjhhNjA3ZjZmYWY0NWVkMjMwODhmMDhlZGJjZDhhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.-vVAoA8dtB_0NcwcTXWIA3WN-4ehxRMbqzVJ4GZoD0g",
-    "techs": [
-      "Packet Tracer",
-      "Switch",
-      "IPv4",
-      "DHCP",
-      "Host",
-      "Arquitetura de Rede",
-      "Endereço de Rede",
-      "Gateway Padrão",
-      "Máscara de Rede",
-      "Classes IP"
-    ],
-    "deploy": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C",
-    "highlighted": true
-  },
-  {
-    "id": 1338925216,
-    "repoName": "Packet-Tracer---Lab-Gerenciamento-Controlador-de-Rede",
-    "url": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Gerenciamento-Controlador-de-Rede",
-    "stars": 0,
-    "description": "Implementação e monitoramento de rede via Controlador SDN (GUI e Network Discovery) no Cisco Packet Tracer.",
-    "image": "https://private-user-images.githubusercontent.com/237499594/637888289-654182de-eb5d-4f18-a345-cc23772f41fc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTMxMTQsIm5iZiI6MTc4ODgxMjgxNCwicGF0aCI6Ii8yMzc0OTk1OTQvNjM3ODg4Mjg5LTY1NDE4MmRlLWViNWQtNGYxOC1hMzQ1LWNjMjM3NzJmNDFmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDI2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjNhMTYwZjM1ZDFlYTZhMGMxZGNhN2I3ZWJkODdiMDMzYmM1YzY1MGYwMjViMzExNDRlN2Y2N2IzOTc2MjAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.gEqJfhEpbFrPN3epNHlTypdq-kcsxcZUFkZjv-HfpZQ",
-    "techs": [
-      "Packet Tracer",
-      "Switch",
-      "IPv4",
-      "DHCP",
-      "Host",
-      "Controlador de Rede",
-      "Arquitetura de Rede",
-      "Endereço de Rede",
-      "Gateway Padrão",
-      "Máscara de Rede"
-    ],
-    "deploy": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Gerenciamento-Controlador-de-Rede",
-    "highlighted": false
-  },
-  {
-    "id": 1075510221,
-    "repoName": "Dashboard-Vendas-Power_BI",
-    "url": "https://github.com/giovanna-faraujo/Dashboard-Vendas-Power_BI",
-    "stars": 0,
-    "description": "Dashboard analítico de Vendas e Varejo em Power BI, com modelagem de dados de pedidos, produtos e lojas. Análise de performance por Gerente, Receita e Distribuição Geográfica",
-    "image": "https://private-user-images.githubusercontent.com/237499594/637187800-ae7c34ef-9016-4b11-b48a-f42c4d47ff7f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTI3MzcsIm5iZiI6MTc4ODgxMjQzNywicGF0aCI6Ii8yMzc0OTk1OTQvNjM3MTg3ODAwLWFlN2MzNGVmLTkwMTYtNGIxMS1iNDhhLWY0MmM0ZDQ3ZmY3Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDIwMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzY5Y2Q3MWI3NGEyNzZiMDAyZTVkM2NlOTY1ZWU1ZTkzYTZjYjhmMDg1NzNlZjAzZGU2NmEyNmU1ZWIyZWEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.AdwhxU4JCHu9jpuhiJ4o8NC1ib51ma_vUAjME1XfN5s",
-    "techs": [
-      "Power BI",
-      "Power Query",
-      "DAX",
-      "Excel",
-      "ETL",
-      "KPIs",
-      "Figma"
-    ],
-    "deploy": "https://app.powerbi.com/view?r=eyJrIjoiNTgxMGU1Y2ItYjY0Mi00N2E3LThjM2MtOGI2NzU5ZmY1ZWM0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9",
-    "highlighted": false
-  },
-  {
-    "id": 1075506405,
-    "repoName": "Dashboard-RH-Power-BI",
-    "url": "https://github.com/giovanna-faraujo/Dashboard-RH-Power-BI",
-    "stars": 0,
-    "description": "Análise comparativa de People Analytics (2019 vs. 2020) em Power BI, identificando a queda de satisfação e as principais causas de risco de Turnover (Salário, Carga Horária).",
-    "image": "https://private-user-images.githubusercontent.com/237499594/637195145-6291cfae-b27e-4c3b-94b7-36081b0749bc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTI0NDksIm5iZiI6MTc4ODgxMjE0OSwicGF0aCI6Ii8yMzc0OTk1OTQvNjM3MTk1MTQ1LTYyOTFjZmFlLWIyN2UtNGMzYi05NGI3LTM2MDgxYjA3NDliYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDE1NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZmVhNzM0OTRkMjRmMzE3ZDhiYTI3YTdjYWNmNTc2NGExMjgzM2E2YTM3YWE2ZmY0MjQ3YTFhYmQwM2NkOGZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.W8W2Gicbdv4LOhyl7LYAmORwyrS7YRXK-18X2SR8sIc",
-    "techs": [
-      "Power BI",
-      "Power Query",
-      "DAX",
-      "Excel",
-      "ETL",
-      "KPIs",
-      "Figma"
-    ],
-    "deploy": "https://app.powerbi.com/view?r=eyJrIjoiMTQwMzU0YzktOWVmMy00ZDVmLWI1ZWYtNzhiNDhhZjhiMmJmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9",
-    "highlighted": true
-  },
-  {
-    "id": 1189865347,
-    "repoName": "giovannaferreira-solucoes",
-    "url": "https://github.com/giovanna-faraujo/giovannaferreira-solucoes",
-    "stars": 0,
-    "description": "Este é o site/portfólio profissional onde apresento soluções práticas de análise de dados e automação para diferentes setores de negócio.  Objetivo: Demonstrar, de forma visual e acessível, como dashboards e automações podem transformar a maneira como empresas acompanham resultados e tomam decisões.",
-    "image": "https://private-user-images.githubusercontent.com/237499594/646042635-592e625d-8b38-4bd0-a236-04829c2df348.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTI5MzYsIm5iZiI6MTc4ODgxMjYzNiwicGF0aCI6Ii8yMzc0OTk1OTQvNjQ2MDQyNjM1LTU5MmU2MjVkLThiMzgtNGJkMC1hMjM2LTA0ODI5YzJkZjM0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDIzNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjcwZjY0MTlmMDhiYmVlN2M1NGQzNTQ4ZDM1NjdlNmY4MDJkMGEwNTM3ODYwMGFkM2NlODcyYjFmM2Q5OTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.kmvDoSc7LRDdxhOnIl_H4VyhL5XNARBwF7duUNTpDeI",
-    "techs": [
-      "Power BI",
-      "Power Query",
-      "DAX",
-      "ETL",
-      "KPIs",
-      "Automação"
-    ],
-    "deploy": "https://giovanna-faraujo.github.io/giovannaferreira-solucoes/",
-    "highlighted": true
-  },
-  {
-    "id": 1359489975,
-    "repoName": "Packet-Tracer---Lab-Agregar-Dispositivo-IoT",
-    "url": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Agregar-Dispositivo-IoT",
-    "stars": 0,
-    "description": "Laboratório prático no Cisco Packet Tracer focado na criação, configuração de rede Wi-Fi ",
-    "image": "https://private-user-images.githubusercontent.com/237499594/646988777-2d2e121e-37b5-48bf-9e96-e6d2239b8cf5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTM4MDIsIm5iZiI6MTc4ODgxMzUwMiwicGF0aCI6Ii8yMzc0OTk1OTQvNjQ2OTg4Nzc3LTJkMmUxMjFlLTM3YjUtNDhiZi05ZTk2LWU2ZDIyMzliOGNmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDM4MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZjY4OGQ1ODE2MDIyZWUzNzdjNTNjNTVhMjllOWFhM2U1NmM2MjdkN2UxYzNjNmFiZjg5ZDNjM2U2ZDRhN2E3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.bwxds5tj81e_gODG4zfT-rafloogPGBW9CCRQav7rZM",
-    "techs": [
-      "Packet Tracer",
-      "Iot",
-      "IPv4",
-      "DHCP",
-      "Host",
-      "Arquitetura de Rede",
-      "Endereço de Rede"
-    ],
-    "deploy": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Agregar-Dispositivo-IoT",
-    "highlighted": false
-  },
-  {
-    "id": 1340865636,
-    "repoName": "Packet-Tracer---Lab-Cabeamento-Estruturado",
-    "url": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Cabeamento-Estruturado",
-    "stars": 0,
-    "description": "Simulação de cabeamento estruturado e infraestrutura física de rede utilizando o Cisco Packet Tracer, abordando montagem de racks, patch panels, tomada de parede e validação de serviços DHCP e HTTP. Atividade baseada no curso Cisco NetAcad.",
-    "image": "https://private-user-images.githubusercontent.com/237499594/647491051-1ce85cc8-5c38-47b9-843b-e78c40434851.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTM5OTUsIm5iZiI6MTc4ODgxMzY5NSwicGF0aCI6Ii8yMzc0OTk1OTQvNjQ3NDkxMDUxLTFjZTg1Y2M4LTVjMzgtNDdiOS04NDNiLWU3OGM0MDQzNDg1MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwN1QyMDQxMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYzlkZTFhYTNlNTE3YjA5NDY2YzY5MzQ4ZWI5MmI4NGI2YzBhODg1MjkwOThlMjc1OTgwMDZkYTA0MTU2Mjk3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.dceYhRjVA7tx3yAZ7pQFfro0LyZ9By0LDriVf2DrZPw",
-    "techs": [
-      "Packet Tracer",
-      "Switch",
-      "IPv4",
-      "DHCP",
-      "Host",
-      "Arquitetura de Rede",
-      "Endereço de Rede",
-      "Gateway Padrão",
-      "Máscara de Rede",
-      "Classes IP"
-    ],
-    "deploy": "https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Cabeamento-Estruturado",
-    "highlighted": false
-  }
-]
-}
-GitFolio:end -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna-f-araujo)
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/giovannaferreira-solucoes/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
+
+</div>
+
+---
+
+Busco oportunidades em **suporte de TI**, **cibersegurança** e **gestão de identidade e acesso (IAM)**. Aqui você encontra os projetos que fiz para praticar e mostrar como trabalho em quatro áreas:
+
+- **Suporte técnico e segurança da informação** — documentos que explicam processos de suporte de TI, boas práticas e cuidados para manter os dados protegidos.
+- **Redes de computadores** — simulações mostrando como conectar e configurar computadores, roteadores e outros equipamentos.
+- **Gestão de identidade e acesso (IAM)** — em construção: projetos práticos de gestão de usuários, grupos e permissões.
+- **Dados e painéis visuais** — transformo dados em gráficos e painéis que ajudam a tomar decisões melhores.
+
+---
+
+## Projetos em destaque
+
+### Simulações de rede de computadores
+
+| Projeto | O que é |
+| :--- | :--- |
+| [**Gerenciamento de Controlador de Rede**](https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Gerenciamento-Controlador-de-Rede) | Simulação de um cenário real de gestão centralizada de dispositivos em rede corporativa, permitindo controlar e monitorar à distância todos os computadores e equipamentos de uma empresa a partir de um único painel — reduzindo tempo de resposta a incidentes. |
+| [**Conexão entre Redes**](https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C) | Simulação de três redes de computadores separadas (por exemplo, três setores diferentes de uma empresa) sendo conectadas entre si por um único equipamento central, aplicando conceitos de roteamento inter-redes. |
+| [**Criação de Câmera Conectada à Internet**](https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Criar-Dispositivo-IoT) | Configuração de uma câmera de segurança para se conectar por Wi-Fi e operar dentro da rede de uma empresa, incluindo os cuidados de segurança envolvidos na integração de dispositivos IoT. |
+
+### Gestão de Identidade e Acesso (IAM) — em construção
+
+| Projeto | O que é |
+| :--- | :--- |
+| *(em desenvolvimento)* | Projeto prático de criação e gestão de usuários e grupos no Active Directory, aplicando política de senha e controle de permissões (RBAC). |
+
+*Atualmente aprendendo Wireshark para análise de tráfego de rede, como parte da preparação para essa área.*
+
+### Documentação de projetos com Inteligência Artificial
+
+| Projeto | O que é |
+| :--- | :--- |
+| [Gerar Imagens com IA](https://github.com/giovanna-faraujo/IA_Google--Labs/blob/main/IA%20Gemini%20-%20Gerar%20Imagens.pdf) | Uso do Google Gemini para planejar estilo e cores, gerar imagens profissionais e ajustá-las por conversa, sem depender de softwares de edição. |
+| [Apresentações Estratégicas](https://github.com/giovanna-faraujo/IA_Google--Labs/blob/main/IA%20Gemini%20-%20Apresenta%C3%A7%C3%B5es%20Estrat%C3%A9gicas.pdf) | Estruturação lógica de apresentações com o Gemini: definição de tópicos, dados de apoio e aberturas de impacto. |
+| [Gestão de Riscos para Projetos](https://github.com/giovanna-faraujo/IA_Google--Labs/blob/main/IA%20Gemini%20-%20Gest%C3%A3o%20de%20Riscos%20para%20Projetos.pdf) | Identificação de riscos e dependências que faltavam no planejamento de um projeto. |
+| [Gerar Conjunto de Dados Limpo (Google Sheets)](https://github.com/giovanna-faraujo/IA_Google--Labs/blob/main/IA%20Gemini%20-%20Gerar%20Conjunto%20Dados%20Limpo.pdf) | Organização e limpeza de planilhas confusas usando comandos em linguagem natural no Google Sheets. |
+| [Notebook: Ferramenta de Documentos](https://github.com/giovanna-faraujo/IA_Google--Labs/blob/main/Gemini%20NotebookLM%20-%20Ferramenta%20de%20Documentos.pdf) | Uso do NotebookLM para organizar, resumir e consultar múltiplos documentos extensos rapidamente. |
+
+### Painéis de dados (Power BI)
+
+| Projeto | O que é |
+| :--- | :--- |
+| [**Dashboard-RH-Power-BI**](https://github.com/giovanna-faraujo/Dashboard-RH-Power-BI) | Painel que mostra, de forma visual, a satisfação dos funcionários de uma empresa em 2019 e 2020, e os principais motivos que levaram pessoas a pedir demissão (salário e carga de trabalho). |
+| [**Dashboard-Vendas-Power_BI**](https://github.com/giovanna-faraujo/Dashboard-Vendas-Power_BI) | Painel que mostra como estão as vendas de uma loja: quanto cada vendedor vendeu, quanto dinheiro entrou e em quais regiões do país as vendas foram maiores. |
+
+---
+
+## Certificados e formação
+
+| Instituição | O que aprendi |
+| :--- | :--- |
+| **Mulher Digital / JA Brasil** | Cibersegurança (150h) — em andamento, conclusão prevista para 12/2026 |
+| **Cisco Networking Academy** | Introdução à segurança digital |
+| **Cisco Networking Academy** | Fundamentos de redes de computadores |
+| **Cisco Networking Academy** | Introdução ao Packet Tracer (ferramenta de simulação de redes) |
+| **Cisco Networking Academy** | Dispositivos de Rede e Configuração Inicial |
+| **IBM SkillsBuild** | Habilidades para trabalhar no mundo digital |
+| **IA Google** | Uso de inteligência artificial |
+
+---
+
+## Programas e ferramentas que eu uso
+
+**Suporte técnico**
+![ServiceNow](https://img.shields.io/badge/ServiceNow-29335A?style=flat-square&logo=servicenow&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Protheus](https://img.shields.io/badge/Protheus-ED1C24?style=flat-square&logo=totvs&logoColor=white)
+
+**Redes e segurança digital**
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-000000?style=flat-square&logo=wireguard&logoColor=white)
+![Mimecast](https://img.shields.io/badge/Mimecast-005A9C?style=flat-square&logo=security&logoColor=white)
+
+**Organização de dados**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googlelookerstudio&logoColor=white)
+
+---
+
   
