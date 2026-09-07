@@ -11,7 +11,7 @@
 
 ---
 
-Busco oportunidades em **suporte de TI**, **cibersegurança** e **gestão de identidade e acesso (IAM)**. Aqui você encontra os projetos que fiz para praticar e mostrar como trabalho em quatro áreas:
+Aqui você encontra os projetos que fiz em áreas:
 
 - **Suporte técnico e segurança da informação** — documentos que explicam processos de suporte de TI, boas práticas e cuidados para manter os dados protegidos.
 - **Redes de computadores** — simulações mostrando como conectar e configurar computadores, roteadores e outros equipamentos.
