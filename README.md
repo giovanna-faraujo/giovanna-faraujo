@@ -13,10 +13,10 @@
 
 Aqui você encontra os projetos que fiz em áreas:
 
-- **Suporte técnico e segurança da informação** — documentos que explicam processos de suporte de TI, boas práticas e cuidados para manter os dados protegidos.
-- **Redes de computadores** — simulações mostrando como conectar e configurar computadores, roteadores e outros equipamentos.
-- **Gestão de identidade e acesso (IAM)** — em construção: projetos práticos de gestão de usuários, grupos e permissões.
-- **Dados e painéis visuais** — transformo dados em gráficos e painéis que ajudam a tomar decisões melhores.
+- **Suporte técnico e segurança da informação:** documentos que explicam processos de suporte de TI, boas práticas e cuidados para manter os dados protegidos.
+- **Redes de computadores:** simulações mostrando como conectar e configurar computadores, roteadores e outros equipamentos.
+- **Gestão de identidade e acesso (IAM):** em construção: projetos práticos de gestão de usuários, grupos e permissões.
+- **Dados e painéis visuais:** transformo dados em gráficos e painéis que ajudam a tomar decisões melhores.
 
 ---
 
