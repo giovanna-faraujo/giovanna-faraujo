@@ -4,7 +4,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna-f-araujo)
-[![Portfólio Automação](https://img.shields.io/badge/🌐_Portfólio-giovannaferreira-blueviolet?style=for-the-badge)]([https://giovanna-faraujo.github.io/giovannaferreira-solucoes/](https://giovanna-faraujo.github.io/Portif-lio/))
+[![Portfólio Automação](https://img.shields.io/badge/🌐_Portfólio-giovannaferreira-blueviolet?style=for-the-badge)](https://giovanna-faraujo.github.io/Portif-lio/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.giovanna.ferreira.araujo@gmail.com)
 
 </div>
