@@ -10,6 +10,30 @@
 </div>
 
 ---
+---
+
+## Programas e ferramentas que eu uso
+
+**Suporte técnico**
+![ServiceNow](https://img.shields.io/badge/ServiceNow-29335A?style=flat-square&logo=servicenow&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Protheus](https://img.shields.io/badge/Protheus-ED1C24?style=flat-square&logo=totvs&logoColor=white)
+
+**Redes e segurança digital**
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-000000?style=flat-square&logo=wireguard&logoColor=white)
+![Mimecast](https://img.shields.io/badge/Mimecast-005A9C?style=flat-square&logo=security&logoColor=white)
+
+**Organização de dados**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googlelookerstudio&logoColor=white)
+
+---
 
 Aqui você encontra os projetos que fiz em áreas:
 
@@ -64,28 +88,5 @@ Aqui você encontra os projetos que fiz em áreas:
 | **Cisco Networking Academy** | Dispositivos de Rede e Configuração Inicial |
 | **IBM SkillsBuild** | Habilidades para trabalhar no mundo digital |
 | **IA Google** | Uso de inteligência artificial |
-
 ---
-
-## Programas e ferramentas que eu uso
-
-**Suporte técnico**
-![ServiceNow](https://img.shields.io/badge/ServiceNow-29335A?style=flat-square&logo=servicenow&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Protheus](https://img.shields.io/badge/Protheus-ED1C24?style=flat-square&logo=totvs&logoColor=white)
-
-**Redes e segurança digital**
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-000000?style=flat-square&logo=wireguard&logoColor=white)
-![Mimecast](https://img.shields.io/badge/Mimecast-005A9C?style=flat-square&logo=security&logoColor=white)
-
-**Organização de dados**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googlelookerstudio&logoColor=white)
-
   
