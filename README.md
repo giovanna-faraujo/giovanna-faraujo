@@ -76,17 +76,4 @@ Aqui você encontra os projetos que fiz em áreas:
 | [**Dashboard-Vendas-Power_BI**](https://github.com/giovanna-faraujo/Dashboard-Vendas-Power_BI) | Painel que mostra como estão as vendas de uma loja: quanto cada vendedor vendeu, quanto dinheiro entrou e em quais regiões do país as vendas foram maiores. |
 
 ---
-
-## Certificados e formação
-
-| Instituição | O que aprendi |
-| :--- | :--- |
-| **Mulher Digital / JA Brasil** | Cibersegurança (150h) — em andamento, conclusão prevista para 12/2026 |
-| **Cisco Networking Academy** | Introdução à segurança digital |
-| **Cisco Networking Academy** | Fundamentos de redes de computadores |
-| **Cisco Networking Academy** | Introdução ao Packet Tracer (ferramenta de simulação de redes) |
-| **Cisco Networking Academy** | Dispositivos de Rede e Configuração Inicial |
-| **IBM SkillsBuild** | Habilidades para trabalhar no mundo digital |
-| **IA Google** | Uso de inteligência artificial |
----
   
