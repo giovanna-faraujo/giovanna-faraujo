@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou a Giovanna Ferreira
+# Olá, eu sou a Giovanna Ferreira!
 
 ### Suporte de TI | Identity & Access Management (IAM) | Cybersecurity
 
@@ -44,21 +44,14 @@ Atendimento a usuários, investigação de problemas, suporte remoto e acompanha
 </td>
 <td width="50%" valign="top">
 
-### Identidades e Acessos
-
-Gerenciamento de contas, solicitações de acesso e acompanhamento de processos de autorização e segurança.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### Redes e Cybersecurity
 
 Estudos e laboratórios sobre redes, protocolos, proteção de dispositivos e fundamentos de segurança da informação.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### Dados e Automação
 
@@ -94,6 +87,7 @@ Análise de informações, desenvolvimento de dashboards e melhoria de processos
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-164E63?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F766E?style=flat-square)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-087E8B?style=flat-square&logo=cisco&logoColor=white)
 
 <br>
 
@@ -120,24 +114,24 @@ Projetos práticos e estudos que ajudam a desenvolver meus conhecimentos e conec
 <tr>
 <td width="50%" valign="top">
 
-**Análise de tráfego de rede com Wireshark**
+**Laboratório de Segurança de Endpoint com Packet Tracer**
 
-Estudo da comunicação entre dispositivos e páginas da internet, identificando protocolos, portas e endereços IP e MAC.
+Laboratório prático utilizando o Cisco Packet Tracer para estudar conceitos de segurança de dispositivos conectados à rede e a importância da proteção de endpoints em ambientes corporativos.
 
-**Conhecimentos:** TCP/IP, Wireshark e análise de pacotes.
+**Conhecimentos:** Cisco Packet Tracer, segurança de endpoints, fundamentos de redes e Cybersecurity.
 
-*Documentação em preparação.*
+[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Seguran-a-Endpoint)
 
 </td>
 <td width="50%" valign="top">
 
-**Laboratório de roteamento Inter-VLAN**
+**Laboratório de Roteamento entre Redes com Packet Tracer**
 
-Estudo sobre organização de redes, segmentação e comunicação entre diferentes VLANs.
+Simulação prática da comunicação entre diferentes redes, utilizando o Cisco Packet Tracer para compreender o funcionamento do roteamento e da conectividade entre dispositivos.
 
-**Conhecimentos:** Redes, VLANs e roteamento.
+**Conhecimentos:** Cisco Packet Tracer, endereçamento IP, roteamento e conectividade de redes.
 
-*Documentação em preparação.*
+[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C)
 
 </td>
 </tr>
@@ -171,21 +165,6 @@ Estudos práticos sobre o uso de ferramentas de IA na criação de conteúdos e 
 </td>
 </tr>
 </table>
-
----
-
-## Aprendizado contínuo
-
-Tenho direcionado meus estudos para **Cybersecurity, redes e gerenciamento de identidades e acessos**, buscando compreender como essas áreas se relacionam com a rotina de suporte.
-
-Alguns temas que fazem parte dos meus estudos:
-
-* Segurança de endpoints e proteção de dispositivos
-* Engenharia social e conscientização de usuários
-* Fundamentos de redes e análise de tráfego
-* Identidades, autenticação e controle de acessos
-* Fundamentos de Cybersecurity
-* Preparação para a certificação Cisco CCST Cybersecurity
 
 ---
 
