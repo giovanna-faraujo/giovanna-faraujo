@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou a Giovanna Ferreira! 👋
+# Olá, eu sou a Giovanna Ferreira!
 
 ### Suporte de TI | Identity & Access Management (IAM) | Cybersecurity
 
@@ -37,14 +37,14 @@ Neste GitHub, compartilho projetos, laboratórios e aprendizados que fazem parte
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Suporte de TI
+### Suporte de TI
 
 Atendimento a usuários, investigação de problemas, suporte remoto e acompanhamento de incidentes e solicitações.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Identidades e Acessos
+### Identidades e Acessos
 
 Gerenciamento de contas, solicitações de acesso e acompanhamento de processos de autorização e segurança.
 
@@ -53,14 +53,14 @@ Gerenciamento de contas, solicitações de acesso e acompanhamento de processos 
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Redes e Cybersecurity
+### Redes e Cybersecurity
 
 Estudos e laboratórios sobre redes, protocolos, proteção de dispositivos e fundamentos de segurança da informação.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Dados e Automação
+### Dados e Automação
 
 Análise de informações, desenvolvimento de dashboards e melhoria de processos com ferramentas de produtividade.
 
@@ -114,7 +114,7 @@ Análise de informações, desenvolvimento de dashboards e melhoria de processos
 
 Projetos práticos e estudos que ajudam a desenvolver meus conhecimentos e conectar a teoria com situações reais de tecnologia.
 
-### 🌐 Redes e Segurança
+### Redes e Segurança
 
 <table>
 <tr>
@@ -143,19 +143,19 @@ Estudo sobre organização de redes, segmentação e comunicação entre diferen
 </tr>
 </table>
 
-### 📊 Dados e Automação
+### Dados e Automação
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Dashboard de Logística — Power BI**
+**Dashboard de Logística com Power BI**
 
 Análise de informações logísticas para acompanhar pedidos, devoluções, atrasos e indicadores de desempenho.
 
 **Tecnologias:** Power BI e análise de dados.
 
-[Ver projeto →](https://github.com/giovanna-faraujo/Dashboard-Logistica-PowerBI)
+[Ver projeto](https://github.com/giovanna-faraujo/Dashboard-Logistica-PowerBI)
 
 </td>
 <td width="50%" valign="top">
@@ -166,7 +166,7 @@ Estudos práticos sobre o uso de ferramentas de IA na criação de conteúdos e 
 
 **Conhecimentos:** Inteligência Artificial, documentação e produtividade.
 
-[Ver projeto →](https://github.com/giovanna-faraujo/IA_Google--Labs)
+[Ver projeto](https://github.com/giovanna-faraujo/IA_Google--Labs)
 
 </td>
 </tr>
@@ -180,12 +180,12 @@ Tenho direcionado meus estudos para **Cybersecurity, redes e gerenciamento de id
 
 Alguns temas que fazem parte dos meus estudos:
 
-- Segurança de endpoints e proteção de dispositivos
-- Engenharia social e conscientização de usuários
-- Fundamentos de redes e análise de tráfego
-- Identidades, autenticação e controle de acessos
-- Fundamentos de Cybersecurity
-- Preparação para a certificação Cisco CCST Cybersecurity
+* Segurança de endpoints e proteção de dispositivos
+* Engenharia social e conscientização de usuários
+* Fundamentos de redes e análise de tráfego
+* Identidades, autenticação e controle de acessos
+* Fundamentos de Cybersecurity
+* Preparação para a certificação Cisco CCST Cybersecurity
 
 ---
 
