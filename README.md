@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou a Giovanna Ferreira!
+# Olá, eu sou a Giovanna Ferreira
 
 ### Suporte de TI | Identity & Access Management (IAM) | Cybersecurity
 
