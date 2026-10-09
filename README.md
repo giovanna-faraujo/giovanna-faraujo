@@ -167,10 +167,9 @@ Estudos práticos sobre o uso de ferramentas de IA na criação de conteúdos e 
 </table>
 
 ---
-
-## Vamos conversar?
-
 <div align="center">
+  
+## Vamos conversar?
 
 Gosto de compartilhar conhecimentos, conhecer novas perspectivas e continuar aprendendo com pessoas da área de tecnologia.
 
