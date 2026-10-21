@@ -1,11 +1,11 @@
-
 <div align="center">
 
 # Olá, eu sou a Giovanna Ferreira!
 
-### Suporte de TI | Identity & Access Management (IAM) | Cybersecurity
+### Suporte TI N1 | Cybersecurity Júnior | Identity & Access Management (IAM) Júnior
 
-Tecnologia, resolução de problemas e aprendizado contínuo.
+Analista de Service Desk em transição para Cybersecurity e IAM.
+Disponível para trabalho 100% remoto.
 
 <br>
 
@@ -19,43 +19,32 @@ Tecnologia, resolução de problemas e aprendizado contínuo.
 
 ## Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente atuo com **Suporte de TI**, auxiliando usuários na resolução de problemas, gerenciamento de solicitações e utilização de recursos tecnológicos no ambiente corporativo.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atuo como **Analista de Service Desk (suporte N1/N2)**, em ambiente corporativo e atendendo usuários de diferentes países, com contato diário com ambientes Microsoft, gerenciamento de acessos, suporte remoto e documentação de procedimentos.
 
-Minha trajetória também inclui experiências na área administrativa e com análise de dados, que contribuíram para desenvolver minha organização, capacidade analítica e visão de processos.
+Estou direcionando minha carreira para **Cybersecurity** e **Identity & Access Management (IAM)**, conectando os estudos e laboratórios com situações reais da minha rotina de suporte.
 
-No dia a dia, tenho contato com ambientes Microsoft, gerenciamento de acessos, suporte remoto e documentação de procedimentos.
+Minha trajetória inclui também experiência administrativa e com análise de dados, que reforçaram minha organização, visão de processos e atenção a detalhes.
 
-Atualmente, venho ampliando meus conhecimentos em **Cybersecurity e Identity & Access Management (IAM)**, conectando os estudos com situações que fazem parte da minha rotina profissional.
-
-Neste GitHub, compartilho projetos, laboratórios e aprendizados que fazem parte do meu desenvolvimento na tecnologia.
+Neste GitHub documento os laboratórios práticos e projetos que fazem parte dessa transição.
 
 ---
 
-## Áreas de atuação e interesse
+## Foco atual
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Suporte de TI
+### Cybersecurity e Redes
 
-Atendimento a usuários, investigação de problemas, suporte remoto e acompanhamento de incidentes e solicitações.
+Preparação para a certificação **Cisco CCST Cybersecurity**, com laboratórios práticos na Cisco Networking Academy documentados neste GitHub.
 
 </td>
 <td width="50%" valign="top">
 
-### Redes e Cybersecurity
+### Identity & Access Management
 
-Estudos e laboratórios sobre redes, protocolos, proteção de dispositivos e fundamentos de segurança da informação.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Dados e Automação
-
-Análise de informações, desenvolvimento de dashboards e melhoria de processos com ferramentas de produtividade.
+Aprofundando conceitos de identidade, controle de acesso e boas práticas, a partir da minha rotina com Active Directory, Microsoft 365 e Intune.
 
 </td>
 </tr>
@@ -63,18 +52,35 @@ Análise de informações, desenvolvimento de dashboards e melhoria de processos
 
 ---
 
+## Formação e cursos
+
+| Instituição | Curso | Status |
+| --- | --- | --- |
+| **Cisco Networking Academy** | Introduction to Cybersecurity | Concluído |
+| **Cisco Networking Academy** | Networking Basics | Concluído |
+| **Cisco Networking Academy** | Introduction to Packet Tracer | Concluído |
+| **Cisco Networking Academy** | Networking Devices and Initial Configuration | Concluído |
+| **Cisco Networking Academy** | Endpoint Security | Concluído |
+| **Cisco Networking Academy** | Network Defense | Em andamento |
+| **Cisco Networking Academy** | Cyber Threat Management | Em andamento |
+| **Microsoft Learn** | SC-900: Fundamentos de Segurança, Conformidade e Identidade | Curso concluído (sem exame de certificação) |
+
+**Próxima certificação:** Cisco CCST Cybersecurity.
+
+---
+
 ## Tecnologias e ferramentas
 
 <div align="center">
 
-**Suporte e ambientes Microsoft**
+**Suporte, ambientes Microsoft e acessos**
 
 <br>
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-34495E?style=flat-square)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
 
 <br>
@@ -83,22 +89,21 @@ Análise de informações, desenvolvimento de dashboards e melhoria de processos
 
 <br>
 
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-087E8B?style=flat-square&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-243B55?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-164E63?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F766E?style=flat-square)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-087E8B?style=flat-square&logo=cisco&logoColor=white)
 
 <br>
 
-**Dados, documentação e produtividade**
+**Dados e produtividade**
 
 <br>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 </div>
 
@@ -106,32 +111,50 @@ Análise de informações, desenvolvimento de dashboards e melhoria de processos
 
 ## Projetos e laboratórios
 
-Projetos práticos e estudos que ajudam a desenvolver meus conhecimentos e conectar a teoria com situações reais de tecnologia.
-
 ### Redes e Segurança
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Laboratório de Segurança de Endpoint com Packet Tracer**
+**Gerenciamento de Rede com Controlador SDN**
 
-Laboratório prático utilizando o Cisco Packet Tracer para estudar conceitos de segurança de dispositivos conectados à rede e a importância da proteção de endpoints em ambientes corporativos.
+Implementação e monitoramento de rede por meio de um controlador SDN (interface gráfica e Network Discovery) no Cisco Packet Tracer.
 
-**Conhecimentos:** Cisco Packet Tracer, segurança de endpoints, fundamentos de redes e Cybersecurity.
+**Conhecimentos:** SDN, monitoramento e visibilidade de rede, Cisco Packet Tracer.
 
-[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Seguran-a-Endpoint)
+[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Gerenciamento-Controlador-de-Rede)
 
 </td>
 <td width="50%" valign="top">
 
-**Laboratório de Roteamento entre Redes com Packet Tracer**
+**Dispositivo IoT: câmera de segurança em rede Wi-Fi**
 
-Simulação prática da comunicação entre diferentes redes, utilizando o Cisco Packet Tracer para compreender o funcionamento do roteamento e da conectividade entre dispositivos.
+Criação e configuração de uma câmera de segurança IoT, com configuração da rede Wi-Fi e conversão do dispositivo em template no Cisco Packet Tracer.
 
-**Conhecimentos:** Cisco Packet Tracer, endereçamento IP, roteamento e conectividade de redes.
+**Conhecimentos:** IoT, redes Wi-Fi, configuração de dispositivos, Cisco Packet Tracer.
+
+[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Criar-Dispositivo-IoT)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Roteamento entre Redes (LANs A, B e C)**
+
+Simulação de três redes locais conectadas a um roteador central, para estudar endereçamento IP, roteamento e conectividade entre dispositivos.
+
+**Conhecimentos:** endereçamento IP, roteamento, conectividade de redes, Cisco Packet Tracer.
 
 [Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C)
+
+</td>
+<td width="50%" valign="top">
+
+**Em breve: laboratórios CCST Cyber**
+
+Novos laboratórios da preparação para a certificação, cada um documentado com o objetivo, as configurações realizadas, as ferramentas usadas, o aprendizado e um exemplo em cenário real.
 
 </td>
 </tr>
@@ -143,35 +166,40 @@ Simulação prática da comunicação entre diferentes redes, utilizando o Cisco
 <tr>
 <td width="50%" valign="top">
 
-**Dashboard de Logística com Power BI**
+**Dashboard de RH (People Analytics)**
 
-Análise de informações logísticas para acompanhar pedidos, devoluções, atrasos e indicadores de desempenho.
+Análise comparativa 2019 vs. 2020 em Power BI, identificando a queda de satisfação e as principais causas de risco de turnover.
 
-**Tecnologias:** Power BI e análise de dados.
+**Tecnologias:** Power BI, análise de dados.
 
-[Ver projeto](https://github.com/giovanna-faraujo/Dashboard-Logistica-PowerBI)
+[Ver projeto](https://github.com/giovanna-faraujo/Dashboard-RH-Power-BI)
 
 </td>
 <td width="50%" valign="top">
 
-**Laboratórios de Inteligência Artificial**
+**Dashboard de Vendas e Varejo**
 
-Estudos práticos sobre o uso de ferramentas de IA na criação de conteúdos e materiais de apoio à produtividade.
+Modelagem de dados de pedidos, produtos e lojas em Power BI, com análise de performance por gerente, receita e distribuição geográfica.
 
-**Conhecimentos:** Inteligência Artificial, documentação e produtividade.
+**Tecnologias:** Power BI, modelagem de dados.
 
-[Ver projeto](https://github.com/giovanna-faraujo/IA_Google--Labs)
+[Ver projeto](https://github.com/giovanna-faraujo/Dashboard-Vendas-Power_BI)
 
 </td>
 </tr>
 </table>
 
+### Outros estudos
+
+**Laboratórios de IA (Certificado Profissional de IA do Google):** uso de ferramentas de IA em produtividade e comunicação, incluindo uma campanha visual de conscientização contra phishing. [Ver projeto](https://github.com/giovanna-faraujo/IA_Google--Labs)
+
 ---
+
 <div align="center">
-  
+
 ## Vamos conversar?
 
-Gosto de compartilhar conhecimentos, conhecer novas perspectivas e continuar aprendendo com pessoas da área de tecnologia.
+Estou em busca de oportunidades como **Suporte TI N1, Cybersecurity Júnior e IAM Júnior**, em regime 100% remoto.
 
 <br>
 
