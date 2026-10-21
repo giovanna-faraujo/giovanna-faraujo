@@ -152,9 +152,13 @@ Simulação de três redes locais conectadas a um roteador central, para estudar
 </td>
 <td width="50%" valign="top">
 
-**Em breve: laboratórios CCST Cyber**
+**Campanha de Conscientização contra Phishing**
 
-Novos laboratórios da preparação para a certificação, cada um documentado com o objetivo, as configurações realizadas, as ferramentas usadas, o aprendizado e um exemplo em cenário real.
+Criação de uma campanha visual de segurança para comunicação interna, alertando colaboradores sobre phishing. Parte dos laboratórios do Certificado Profissional de IA do Google.
+
+**Conhecimentos:** conscientização em segurança, phishing, comunicação corporativa, Google Gemini.
+
+[Ver projeto](https://github.com/giovanna-faraujo/IA_Google--Labs)
 
 </td>
 </tr>
@@ -188,10 +192,6 @@ Modelagem de dados de pedidos, produtos e lojas em Power BI, com análise de per
 </td>
 </tr>
 </table>
-
-### Outros estudos
-
-**Laboratórios de IA (Certificado Profissional de IA do Google):** uso de ferramentas de IA em produtividade e comunicação, incluindo uma campanha visual de conscientização contra phishing. [Ver projeto](https://github.com/giovanna-faraujo/IA_Google--Labs)
 
 ---
 
