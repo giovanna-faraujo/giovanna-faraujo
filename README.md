@@ -52,23 +52,6 @@ Aprofundando conceitos de identidade, controle de acesso e boas práticas, a par
 
 ---
 
-## Formação e cursos
-
-| Instituição | Curso | Status |
-| --- | --- | --- |
-| **Cisco Networking Academy** | Introduction to Cybersecurity | Concluído |
-| **Cisco Networking Academy** | Networking Basics | Concluído |
-| **Cisco Networking Academy** | Introduction to Packet Tracer | Concluído |
-| **Cisco Networking Academy** | Networking Devices and Initial Configuration | Concluído |
-| **Cisco Networking Academy** | Endpoint Security | Concluído |
-| **Cisco Networking Academy** | Network Defense | Em andamento |
-| **Cisco Networking Academy** | Cyber Threat Management | Em andamento |
-| **Microsoft Learn** | SC-900: Fundamentos de Segurança, Conformidade e Identidade | Curso concluído (sem exame de certificação) |
-
-**Próxima certificação:** Cisco CCST Cybersecurity.
-
----
-
 ## Tecnologias e ferramentas
 
 <div align="center">
