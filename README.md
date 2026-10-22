@@ -1,9 +1,15 @@
 
 # Olá, eu sou a Giovanna Ferreira Araujo!
 
+--- 
+
 **Suporte de TI N1 | Gestão de Identidades e Acessos (IAM) | Cibersegurança**
 
+---
+
 📍 Ceará, Brasil | Disponível para trabalho remoto
+
+---
 
 Atuo com **Suporte de TI e Service Desk**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
 
@@ -14,15 +20,6 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 **[Conheça meu portfólio completo →](https://giovanna-faraujo.github.io/portfolio/)**
 
 ---
-
-## Experiência e habilidades
-
-Minha experiência em Suporte de TI me permitiu desenvolver conhecimentos técnicos e habilidades importantes para o atendimento aos usuários e o funcionamento dos serviços de tecnologia.
-
-- **Suporte técnico:** atendimento aos usuários, análise e acompanhamento de incidentes e solicitações.
-- **Gestão de acessos:** acompanhamento de solicitações de contas e permissões, seguindo os processos de aprovação e segurança.
-- **Documentação:** criação e organização de procedimentos para facilitar o atendimento e o compartilhamento de conhecimento.
-- **Indicadores de TI:** organização de dados e elaboração de relatórios para acompanhar demandas e apoiar decisões.
 
 ## Ferramentas e conhecimentos
 
@@ -59,18 +56,3 @@ Aqui estão alguns dos projetos e laboratórios que desenvolvi para colocar meus
 Também compartilho [projetos e laboratórios de Inteligência Artificial](https://github.com/giovanna-faraujo/IA_Google--Labs), nos quais exploro ferramentas como Gemini, NotebookLM e Google AI Studio para apoiar atividades de pesquisa, planejamento, comunicação e análise.
 
 **Sobre os projetos:** os laboratórios são atividades educacionais e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em ambientes corporativos reais.
-
----
-
-## Formação e desenvolvimento profissional
-
-Sou formada em **Análise e Desenvolvimento de Sistemas** e continuo investindo no desenvolvimento dos meus conhecimentos em tecnologia.
-
-Atualmente, meus estudos estão direcionados para Cibersegurança e Gestão de Identidades e Acessos (IAM).
-
-- **Programa Mulher Digital:** participação na formação em Cibersegurança.
-- **Cisco CCST Cybersecurity:** preparação para a certificação.
-- **Microsoft SC-900:** curso de fundamentos concluído.
-- **Gestão de Identidades e Acessos (IAM):** estudos sobre menor privilégio, autenticação multifator (MFA), acesso único (SSO) e ciclo de vida de identidades.
-
-Gosto de aprender colocando a teoria em prática. Por isso, procuro documentar meus estudos de forma simples e organizada, para que outras pessoas também possam entender os conceitos e acompanhar o que foi desenvolvido.
