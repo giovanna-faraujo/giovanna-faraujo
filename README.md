@@ -12,7 +12,6 @@
 <p>📍 Ceará, Brasil | Disponível para trabalho remoto</p>
 
 </div>
----
 
 Atuo com **Suporte de TI e Service Desk**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
 
