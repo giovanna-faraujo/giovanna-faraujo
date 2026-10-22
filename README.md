@@ -1,13 +1,23 @@
+<a name="topo"></a>
+
 <div align="center">
 
-# Olá, eu sou a Giovanna! 
+<!-- BANNER SUPERIOR EM DEGRADÊ ROXO -->
+<img width="100%" alt="Olá, eu sou a Giovanna!" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=Ol%C3%A1%2C%20eu%20sou%20a%20Giovanna!&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" />
+
+<!-- TEXTO DIGITANDO -->
+<a href="https://giovanna-faraujo.github.io/portfolio/">
+  <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1+%C2%B7+Service+Desk;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI%2C+SQL+e+Excel;Atendimento+em+portugu%C3%AAs+e+espanhol;Dispon%C3%ADvel+para+trabalho+remoto" />
+</a>
 
 **Suporte de TI N1 · Gestão de Identidades e Acessos (IAM) · Cibersegurança**
 
 Ceará, Brasil · Disponível para trabalho remoto
 
+<br>
+
 <a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-7C3AED?style=for-the-badge" alt="Conheça meu portfólio completo">
+  <img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Conheça meu portfólio completo">
 </a>
 
 <br><br>
@@ -19,7 +29,7 @@ Ceará, Brasil · Disponível para trabalho remoto
 
 </div>
 
----
+<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=3" />
 
 ## Sobre mim
 
@@ -37,16 +47,18 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 
 </div>
 
+<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=3" />
+
 ## Ferramentas e conhecimentos
 
 | Área | Ferramentas e conhecimentos |
 | --- | --- |
-| **Suporte de TI** | ServiceNow, Microsoft 365, Windows, Intune, suporte remoto e ERP Protheus |
-| **Gestão de acessos (IAM)** | Active Directory, Microsoft Entra ID, contas de usuários e permissões |
-| **Redes e Cibersegurança** | Cisco Packet Tracer, Wireshark, TCP/IP, autenticação, menor privilégio e proteção de dados |
-| **Dados e produtividade** | Power BI, SQL, Excel, relatórios e organização de processos |
+| **Suporte de TI** | ![ServiceNow](https://img.shields.io/badge/ServiceNow-6D28D9?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-6D28D9?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-6D28D9?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-6D28D9?style=flat-square) ![Suporte remoto](https://img.shields.io/badge/Suporte_remoto-6D28D9?style=flat-square) ![ERP Protheus](https://img.shields.io/badge/ERP_Protheus-6D28D9?style=flat-square) |
+| **Gestão de acessos (IAM)** | ![Active Directory](https://img.shields.io/badge/Active_Directory-7C3AED?style=flat-square) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-7C3AED?style=flat-square) ![Contas de usuários](https://img.shields.io/badge/Contas_de_usuários-7C3AED?style=flat-square) ![Permissões](https://img.shields.io/badge/Permissões-7C3AED?style=flat-square) |
+| **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-8B5CF6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-8B5CF6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-8B5CF6?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autenticação-8B5CF6?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privilégio-8B5CF6?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Proteção_de_dados-8B5CF6?style=flat-square) |
+| **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-A855F7?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-A855F7?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-A855F7?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relatórios-A855F7?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organização_de_processos-A855F7?style=flat-square) |
 
----
+<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=3" />
 
 ## Projetos em destaque
 
@@ -170,7 +182,7 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 </details>
 
----
+<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=3" />
 
 ## Inteligência Artificial
 
@@ -180,18 +192,38 @@ Também compartilho projetos e laboratórios nos quais exploro **Gemini, Noteboo
 
 > **Sobre os projetos:** os laboratórios são atividades e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em ambientes corporativos reais.
 
----
+<!--
+===== EFEITO OPCIONAL: COBRINHA NO GRÁFICO DE CONTRIBUIÇÕES =====
+Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
+             2) rode o workflow uma vez em Actions > "Gerar animação da cobrinha"
+             3) apague o marcador de abertura e o de fechamento deste comentário
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/output/snake.svg">
+  <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/output/snake.svg" width="100%">
+</picture>
+</div>
+-->
 
 <div align="center">
 
 **Quer conhecer mais sobre minha trajetória e meus projetos?**
 
 <a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/ACESSE_MEU_PORTFÓLIO-7C3AED?style=for-the-badge" alt="Acesse meu portfólio">
+  <img src="https://img.shields.io/badge/ACESSE_MEU_PORTFÓLIO-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Acesse meu portfólio">
 </a>
 
-<br><br>
+<br>
 
-<a href="#olá-eu-sou-a-giovanna">↑ Voltar ao início</a>
+<a href="https://giovanna-faraujo.github.io/portfolio/">
+  <img alt="Vamos conversar?" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&height=40&lines=Obrigada+pela+visita!;Vamos+conversar+sobre+dados+e+acessos%3F;Clique+aqui+e+conhe%C3%A7a+meu+portf%C3%B3lio" />
+</a>
+
+<a href="#topo">↑ Voltar ao início</a>
+
+<!-- BANNER INFERIOR EM DEGRADÊ ROXO -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:7C3AED,100:4C1D95&height=140&section=footer" />
 
 </div>
