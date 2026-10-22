@@ -1,192 +1,76 @@
-<div align="center">
 
-# Olá, eu sou a Giovanna Ferreira!
+# Olá, eu sou a Giovanna Ferreira Araujo!
 
-### Suporte TI N1 | Cybersecurity Júnior | Identity & Access Management (IAM) Júnior
+**Suporte de TI N1 | Gestão de Identidades e Acessos (IAM) | Cibersegurança**
 
-Analista de Service Desk em transição para Cybersecurity e IAM.
-Disponível para trabalho 100% remoto.
+📍 Ceará, Brasil | Disponível para trabalho remoto
 
-<br>
+Atuo com **Suporte de TI e Service Desk**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-f-araujo/)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovanna-faraujo)
-[![Email](https://img.shields.io/badge/Email-007C91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioferreira.tech@gmail.com)
+Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança**, buscando oportunidades de nível júnior nessas áreas.
 
-</div>
+Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimentos, as ferramentas que utilizo e o que venho aprendendo na prática.
+
+**[Conheça meu portfólio completo →](https://giovanna-faraujo.github.io/portfolio/)**
 
 ---
 
-## Sobre mim
+## Experiência e habilidades
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e atuo como **Analista de Service Desk (suporte N1/N2)**, em ambiente corporativo e atendendo usuários de diferentes países, com contato diário com ambientes Microsoft, gerenciamento de acessos, suporte remoto e documentação de procedimentos.
+Minha experiência em Suporte de TI me permitiu desenvolver conhecimentos técnicos e habilidades importantes para o atendimento aos usuários e o funcionamento dos serviços de tecnologia.
 
-Estou direcionando minha carreira para **Cybersecurity** e **Identity & Access Management (IAM)**, conectando os estudos e laboratórios com situações reais da minha rotina de suporte.
+- **Suporte técnico:** atendimento aos usuários, análise e acompanhamento de incidentes e solicitações.
+- **Gestão de acessos:** acompanhamento de solicitações de contas e permissões, seguindo os processos de aprovação e segurança.
+- **Documentação:** criação e organização de procedimentos para facilitar o atendimento e o compartilhamento de conhecimento.
+- **Indicadores de TI:** organização de dados e elaboração de relatórios para acompanhar demandas e apoiar decisões.
 
-Minha trajetória inclui também experiência administrativa e com análise de dados, que reforçaram minha organização, visão de processos e atenção a detalhes.
+## Ferramentas e conhecimentos
 
-Neste GitHub documento os laboratórios práticos e projetos que fazem parte dessa transição.
-
----
-
-## Foco atual
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Cybersecurity e Redes
-
-Preparação para a certificação **Cisco CCST Cybersecurity**, com laboratórios práticos na Cisco Networking Academy documentados neste GitHub.
-
-</td>
-<td width="50%" valign="top">
-
-### Identity & Access Management
-
-Aprofundando conceitos de identidade, controle de acesso e boas práticas, a partir da minha rotina com Active Directory, Microsoft 365 e Intune.
-
-</td>
-</tr>
-</table>
+| Área | Ferramentas e conhecimentos |
+| --- | --- |
+| **Suporte de TI** | ServiceNow, Microsoft 365, Windows, Intune, suporte remoto e ERP Protheus |
+| **Gestão de acessos (IAM)** | Active Directory, Microsoft Entra ID, contas de usuários e permissões |
+| **Redes e Cibersegurança** | Cisco Packet Tracer, Wireshark, TCP/IP, autenticação, menor privilégio e proteção de dados |
+| **Dados e produtividade** | Power BI, SQL, Excel, relatórios e organização de processos |
 
 ---
 
-## Tecnologias e ferramentas
+## Projetos em destaque
 
-<div align="center">
+Aqui estão alguns dos projetos e laboratórios que desenvolvi para colocar meus conhecimentos em prática.
 
-**Suporte, ambientes Microsoft e acessos**
+### Redes, acessos e Cibersegurança
 
-<br>
+| Projeto | O que desenvolvi | Ferramentas e conhecimentos |
+| --- | --- | --- |
+| [Controle de acesso, email e arquivos](https://github.com/giovanna-faraujo/Cisco_Packet_Tracer-Lab-Gerenciamento_Acessos_Email-FTP) | Laboratório para entender como autenticar usuários e controlar suas permissões de acesso à rede e aos arquivos. | Cisco Packet Tracer, AAA/RADIUS, SMTP/POP3 e FTP |
+| [Análise de riscos em Cibersegurança](https://github.com/giovanna-faraujo/Caso_de_Estudo-Cybersecurity-Analise_Riscos) | Estudo de caso para identificar possíveis ameaças aos dados e sistemas de uma empresa e propor medidas de proteção. | Identificação de ativos, análise de riscos e controles de segurança |
+| [Segurança de aplicações web](https://github.com/giovanna-faraujo/Caso_de_Estudo-Cybersecurity-Analise_Riscos-OWASP) | Estudo sobre vulnerabilidades em aplicações web, seus riscos e formas de prevenção. | OWASP Top 10, SQL Injection, XSS e IDOR |
+| [Conexão entre três redes IPv4](https://github.com/giovanna-faraujo/Cisco_Packet_Tracer-Lab-Roteamento_Inter_Redes_A_B_C) | Simulação de três redes conectadas por um roteador, demonstrando como diferentes setores de uma empresa podem se comunicar. | Cisco Packet Tracer, IPv4, máscaras de rede, gateways e ICMP |
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-34495E?style=flat-square)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+### Dados e indicadores
 
-<br>
+| Projeto | O que desenvolvi | Ferramentas e conhecimentos |
+| --- | --- | --- |
+| [Dashboard de vendas](https://github.com/giovanna-faraujo/Dashboard-Vendas-Power_BI) | Painel interativo para analisar faturamento e comparar o desempenho de produtos, lojas e regiões. | Power BI, DAX e modelagem de dados |
+| [Dashboard de RH](https://github.com/giovanna-faraujo/Dashboard-RH-Power-BI) | Painel para visualizar informações de colaboradores e comparar resultados de pesquisas de satisfação de 2019 e 2020. | Power BI, preparação de dados e análise comparativa |
+| [Análise de vendas com SQL e Excel](https://github.com/giovanna-faraujo/Dashboard-Vendas-SQL-Excel) | Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio. | SQL, junções de tabelas, agregações e Excel |
 
-**Redes e Segurança**
+Também compartilho [projetos e laboratórios de Inteligência Artificial](https://github.com/giovanna-faraujo/IA_Google--Labs), nos quais exploro ferramentas como Gemini, NotebookLM e Google AI Studio para apoiar atividades de pesquisa, planejamento, comunicação e análise.
 
-<br>
-
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-087E8B?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-243B55?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-164E63?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F766E?style=flat-square)
-
-<br>
-
-**Dados e produtividade**
-
-<br>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-</div>
+**Sobre os projetos:** os laboratórios são atividades educacionais e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em ambientes corporativos reais.
 
 ---
 
-## Projetos e laboratórios
+## Formação e desenvolvimento profissional
 
-### Redes e Segurança
+Sou formada em **Análise e Desenvolvimento de Sistemas** e continuo investindo no desenvolvimento dos meus conhecimentos em tecnologia.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Atualmente, meus estudos estão direcionados para Cibersegurança e Gestão de Identidades e Acessos (IAM).
 
-**Gerenciamento de Rede com Controlador SDN**
+- **Programa Mulher Digital:** participação na formação em Cibersegurança.
+- **Cisco CCST Cybersecurity:** preparação para a certificação.
+- **Microsoft SC-900:** curso de fundamentos concluído.
+- **Gestão de Identidades e Acessos (IAM):** estudos sobre menor privilégio, autenticação multifator (MFA), acesso único (SSO) e ciclo de vida de identidades.
 
-Implementação e monitoramento de rede por meio de um controlador SDN (interface gráfica e Network Discovery) no Cisco Packet Tracer.
-
-**Conhecimentos:** SDN, monitoramento e visibilidade de rede, Cisco Packet Tracer.
-
-[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Gerenciamento-Controlador-de-Rede)
-
-</td>
-<td width="50%" valign="top">
-
-**Dispositivo IoT: câmera de segurança em rede Wi-Fi**
-
-Criação e configuração de uma câmera de segurança IoT, com configuração da rede Wi-Fi e conversão do dispositivo em template no Cisco Packet Tracer.
-
-**Conhecimentos:** IoT, redes Wi-Fi, configuração de dispositivos, Cisco Packet Tracer.
-
-[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab-Criar-Dispositivo-IoT)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Roteamento entre Redes (LANs A, B e C)**
-
-Simulação de três redes locais conectadas a um roteador central, para estudar endereçamento IP, roteamento e conectividade entre dispositivos.
-
-**Conhecimentos:** endereçamento IP, roteamento, conectividade de redes, Cisco Packet Tracer.
-
-[Ver projeto](https://github.com/giovanna-faraujo/Packet-Tracer---Lab_Roteamento-Inter-Redes-A-B-C)
-
-</td>
-<td width="50%" valign="top">
-
-**Campanha de Conscientização contra Phishing**
-
-Criação de uma campanha visual de segurança para comunicação interna, alertando colaboradores sobre phishing. Parte dos laboratórios do Certificado Profissional de IA do Google.
-
-**Conhecimentos:** conscientização em segurança, phishing, comunicação corporativa, Google Gemini.
-
-[Ver projeto](https://github.com/giovanna-faraujo/IA_Google--Labs)
-
-</td>
-</tr>
-</table>
-
-### Dados e Automação
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Dashboard de RH (People Analytics)**
-
-Análise comparativa 2019 vs. 2020 em Power BI, identificando a queda de satisfação e as principais causas de risco de turnover.
-
-**Tecnologias:** Power BI, análise de dados.
-
-[Ver projeto](https://github.com/giovanna-faraujo/Dashboard-RH-Power-BI)
-
-</td>
-<td width="50%" valign="top">
-
-**Dashboard de Vendas e Varejo**
-
-Modelagem de dados de pedidos, produtos e lojas em Power BI, com análise de performance por gerente, receita e distribuição geográfica.
-
-**Tecnologias:** Power BI, modelagem de dados.
-
-[Ver projeto](https://github.com/giovanna-faraujo/Dashboard-Vendas-Power_BI)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## Vamos conversar?
-
-Estou em busca de oportunidades como **Suporte TI N1, Cybersecurity Júnior e IAM Júnior**, em regime 100% remoto.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-f-araujo/)
-[![Email](https://img.shields.io/badge/Entre_em_contato-007C91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioferreira.tech@gmail.com)
-
-</div>
+Gosto de aprender colocando a teoria em prática. Por isso, procuro documentar meus estudos de forma simples e organizada, para que outras pessoas também possam entender os conceitos e acompanhar o que foi desenvolvido.
