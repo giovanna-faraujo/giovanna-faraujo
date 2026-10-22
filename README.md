@@ -10,6 +10,8 @@
   <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1+%C2%B7+Service+Desk;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI%2C+SQL+e+Excel;Atendimento+em+portugu%C3%AAs+e+espanhol;Dispon%C3%ADvel+para+trabalho+remoto" />
 </a>
 
+**Suporte de TI N1 · Gestão de Identidades e Acessos (IAM) · Cibersegurança**
+
 Ceará, Brasil · Disponível para trabalho remoto
 
 <br>
@@ -27,7 +29,7 @@ Ceará, Brasil · Disponível para trabalho remoto
 
 </div>
 
-<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=3" />
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=5" />
 
 ## Sobre mim
 
@@ -37,6 +39,8 @@ Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão d
 
 Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimentos, as ferramentas que utilizo e o que venho aprendendo na prática.
 
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/SUPORTE_DE_TI-6D28D9?style=flat-square" alt="Suporte de TI">
@@ -45,7 +49,7 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 
 </div>
 
-<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=3" />
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
 
 ## Ferramentas e conhecimentos
 
@@ -56,7 +60,7 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 | **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-8B5CF6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-8B5CF6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-8B5CF6?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autenticação-8B5CF6?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privilégio-8B5CF6?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Proteção_de_dados-8B5CF6?style=flat-square) |
 | **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-A855F7?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-A855F7?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-A855F7?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relatórios-A855F7?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organização_de_processos-A855F7?style=flat-square) |
 
-<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=3" />
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=5" />
 
 ## Projetos em destaque
 
@@ -70,6 +74,8 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 | [Conexão entre três redes IPv4](#redes-ipv4) | |
 
 Clique nas setas abaixo para ver a descrição e as ferramentas de cada projeto.
+
+<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=3" />
 
 ### Redes, acessos e Cibersegurança
 
@@ -88,6 +94,8 @@ Laboratório para entender como autenticar usuários e controlar suas permissõe
 
 </details>
 
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
+
 <a name="analise-riscos"></a>
 
 <details>
@@ -102,6 +110,8 @@ Estudo de caso para identificar possíveis ameaças aos dados e sistemas de uma 
 [**Explorar o estudo de caso →**](https://github.com/giovanna-faraujo/Caso_de_Estudo-Cybersecurity-Analise_Riscos)
 
 </details>
+
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
 
 <a name="seguranca-web"></a>
 
@@ -118,6 +128,8 @@ Estudo sobre vulnerabilidades em aplicações web, seus riscos e formas de preve
 
 </details>
 
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
+
 <a name="redes-ipv4"></a>
 
 <details>
@@ -132,6 +144,8 @@ Simulação de três redes conectadas por um roteador, demonstrando como diferen
 [**Explorar o laboratório →**](https://github.com/giovanna-faraujo/Cisco_Packet_Tracer-Lab-Roteamento_Inter_Redes_A_B_C)
 
 </details>
+
+<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=3" />
 
 ### Dados e indicadores
 
@@ -150,6 +164,8 @@ Painel interativo para analisar faturamento e comparar o desempenho de produtos,
 
 </details>
 
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
+
 <a name="dashboard-rh"></a>
 
 <details>
@@ -164,6 +180,8 @@ Painel para visualizar informações de colaboradores e comparar resultados de p
 [**Explorar o projeto →**](https://github.com/giovanna-faraujo/Dashboard-RH-Power-BI)
 
 </details>
+
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
 
 <a name="vendas-sql-excel"></a>
 
@@ -180,7 +198,7 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 </details>
 
-<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=3" />
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
 
 ## Inteligência Artificial
 
@@ -204,6 +222,8 @@ Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
 </picture>
 </div>
 -->
+
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
 
 <div align="center">
 
