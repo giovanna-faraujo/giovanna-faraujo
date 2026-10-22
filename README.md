@@ -3,7 +3,9 @@
 <div align="center">
 
 <!-- BANNER SUPERIOR EM DEGRADÊ ROXO -->
-<img width="100%" alt="Olá, eu sou a Giovanna!" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=Ol%C3%A1%2C%20eu%20sou%20a%20Giovanna!&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=150&section=header&animation=fadeIn" />
+
+<h1>Olá, eu sou a Giovanna! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Mão acenando" width="45" height="45" /></h1>
 
 <!-- TEXTO DIGITANDO -->
 <a href="https://giovanna-faraujo.github.io/portfolio/">
@@ -60,8 +62,6 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 | **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-8B5CF6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-8B5CF6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-8B5CF6?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autenticação-8B5CF6?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privilégio-8B5CF6?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Proteção_de_dados-8B5CF6?style=flat-square) |
 | **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-A855F7?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-A855F7?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-A855F7?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relatórios-A855F7?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organização_de_processos-A855F7?style=flat-square) |
 
-<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=5" />
-
 ## Projetos em destaque
 
 **Escolha um tema para explorar:**
@@ -74,8 +74,6 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 | [Conexão entre três redes IPv4](#redes-ipv4) | |
 
 Clique nas setas abaixo para ver a descrição e as ferramentas de cada projeto.
-
-<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=3" />
 
 ### Redes, acessos e Cibersegurança
 
@@ -94,8 +92,6 @@ Laboratório para entender como autenticar usuários e controlar suas permissõe
 
 </details>
 
-<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
-
 <a name="analise-riscos"></a>
 
 <details>
@@ -110,8 +106,6 @@ Estudo de caso para identificar possíveis ameaças aos dados e sistemas de uma 
 [**Explorar o estudo de caso →**](https://github.com/giovanna-faraujo/Caso_de_Estudo-Cybersecurity-Analise_Riscos)
 
 </details>
-
-<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
 
 <a name="seguranca-web"></a>
 
@@ -128,8 +122,6 @@ Estudo sobre vulnerabilidades em aplicações web, seus riscos e formas de preve
 
 </details>
 
-<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
-
 <a name="redes-ipv4"></a>
 
 <details>
@@ -144,8 +136,6 @@ Simulação de três redes conectadas por um roteador, demonstrando como diferen
 [**Explorar o laboratório →**](https://github.com/giovanna-faraujo/Cisco_Packet_Tracer-Lab-Roteamento_Inter_Redes_A_B_C)
 
 </details>
-
-<img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=3" />
 
 ### Dados e indicadores
 
@@ -164,8 +154,6 @@ Painel interativo para analisar faturamento e comparar o desempenho de produtos,
 
 </details>
 
-<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
-
 <a name="dashboard-rh"></a>
 
 <details>
@@ -181,8 +169,6 @@ Painel para visualizar informações de colaboradores e comparar resultados de p
 
 </details>
 
-<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
-
 <a name="vendas-sql-excel"></a>
 
 <details>
@@ -197,8 +183,6 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 [**Explorar o projeto →**](https://github.com/giovanna-faraujo/Dashboard-Vendas-SQL-Excel)
 
 </details>
-
-<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
 
 ## Inteligência Artificial
 
