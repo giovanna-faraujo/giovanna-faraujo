@@ -5,7 +5,7 @@
 <!-- BANNER SUPERIOR EM DEGRADÊ ROXO -->
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=150&section=header&animation=fadeIn" />
 
-<h1>Olá, eu sou a Giovanna! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Mão acenando" width="45" height="45" /></h1>
+<h1>Olá, eu sou a Giovanna <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Mão acenando" width="45" height="45" /></h1>
 
 <!-- TEXTO DIGITANDO -->
 <a href="https://giovanna-faraujo.github.io/portfolio/">
