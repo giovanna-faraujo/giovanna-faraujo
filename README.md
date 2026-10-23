@@ -55,7 +55,7 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 ## Projetos em destaque
 
 
-### Redes, acessos e Cibersegurança
+### Redes, acessos e cibersegurança
 
 <a name="controle-de-acesso"></a>
 
