@@ -2,58 +2,59 @@
 
 <div align="center">
 
-<!-- BANNER SUPERIOR EM DEGRADÊ ROXO -->
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=150&section=header&animation=fadeIn" />
+<!-- BANNER SUPERIOR EM DEGRADÊ PRETO E CINZA -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:777777&height=150&section=header&animation=fadeIn" />
 
-<h1>Olá, eu sou a Giovanna <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Mão acenando" width="45" height="45" /></h1>
+<h1>Olá, eu sou a Giovanna</h1>
 
-<!-- TEXTO DIGITANDO -->
+<!-- TEXTO ANIMADO ADAPTADO AO TEMA DO GITHUB -->
 <a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=E5E5E5&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI">
+    <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=111111&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI">
+  </picture>
 </a>
 
-📍 Ceará, Brasil
+<p>Ceará, Brasil</p>
 
 <br>
 
 <a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Conheça meu portfólio completo">
+  <img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-333333?style=for-the-badge&logo=githubpages&logoColor=white" alt="Conheça meu portfólio completo">
 </a>
 
 <br><br>
 
 <a href="#sobre-mim">Sobre mim</a> ·
 <a href="#ferramentas-e-conhecimentos">Ferramentas</a> ·
-<a href="#projetos-em-destaque">Projetos</a> ·
-<a href="#inteligência-artificial">Inteligência Artificial</a>
+<a href="#projetos-em-destaque">Projetos</a>
 
 </div>
 
-<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=5" />
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:333333,100:777777&height=5" />
 
 ## Sobre mim
 
 Atuo com **Suporte de TI N1**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
 
-Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança** de nível júnior nessas áreas.
+Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança**, buscando oportunidades de nível júnior nessas áreas.
 
 Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimentos, as ferramentas que utilizo e o que venho aprendendo na prática.
 
-<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
+<img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:333333,100:777777&height=2" />
 
 ## Ferramentas e conhecimentos
 
 | Área | Ferramentas e conhecimentos |
 | --- | --- |
-| **Suporte de TI** | ![ServiceNow](https://img.shields.io/badge/ServiceNow-BDA6FD?style=flat-square&logo=servicenow&logoColor=black) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-BDA6FD?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-BDA6FD?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-BDA6FD?style=flat-square) ![Suporte remoto](https://img.shields.io/badge/Suporte_remoto-BDA6FD?style=flat-square) ![ERP Protheus](https://img.shields.io/badge/ERP_Protheus-BDA6FD?style=flat-square) |
-| **Gestão de acessos (IAM)** | ![Active Directory](https://img.shields.io/badge/Active_Directory-BDA6FD?style=flat-square) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-BDA6FD?style=flat-square) ![Contas de usuários](https://img.shields.io/badge/Contas_de_usuários-BDA6FD?style=flat-square) ![Permissões](https://img.shields.io/badge/Permissões-BDA6FD?style=flat-square) |
-| **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-BDA6FD?style=flat-square&logo=cisco&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-BDA6FD?style=flat-square&logo=wireshark&logoColor=black) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-BDA6FD?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autenticação-BDA6FD?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privilégio-BDA6FD?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Proteção_de_dados-BDA6FD?style=flat-square) |
-| **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-BDA6FD?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-BDA6FD?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-BDA6FD?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relatórios-BDA6FD?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organização_de_processos-BDA6FD?style=flat-square) |
+| **Suporte de TI** | ![ServiceNow](https://img.shields.io/badge/ServiceNow-333333?style=flat-square&logo=servicenow&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-333333?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-333333?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-333333?style=flat-square) ![Suporte remoto](https://img.shields.io/badge/Suporte_remoto-333333?style=flat-square) ![ERP Protheus](https://img.shields.io/badge/ERP_Protheus-333333?style=flat-square) |
+| **Gestão de acessos (IAM)** | ![Active Directory](https://img.shields.io/badge/Active_Directory-333333?style=flat-square) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-333333?style=flat-square) ![Contas de usuários](https://img.shields.io/badge/Contas_de_usu%C3%A1rios-333333?style=flat-square) ![Permissões](https://img.shields.io/badge/Permiss%C3%B5es-333333?style=flat-square) |
+| **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-333333?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=flat-square&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333333?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-333333?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privil%C3%A9gio-333333?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Prote%C3%A7%C3%A3o_de_dados-333333?style=flat-square) |
+| **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-333333?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-333333?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relat%C3%B3rios-333333?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o_de_processos-333333?style=flat-square) |
 
 ---
 
 ## Projetos em destaque
-
 
 ### Redes, acessos e cibersegurança
 
@@ -170,22 +171,7 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 > **Sobre os projetos:** os laboratórios são atividades e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em empresas reais.
 
-<!--
-===== EFEITO OPCIONAL: COBRINHA NO GRÁFICO DE CONTRIBUIÇÕES =====
-Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
-             2) rode o workflow uma vez em Actions > "Gerar animação da cobrinha"
-             3) apague o marcador de abertura e o de fechamento deste comentário
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/output/snake.svg">
-  <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/giovanna-faraujo/giovanna-faraujo/output/snake.svg" width="100%">
-</picture>
-</div>
--->
-
-<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
+<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:777777,50:333333,100:000000&height=5" />
 
 <div align="center">
 
@@ -193,7 +179,7 @@ Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
 
 <a href="#topo">↑ Voltar ao início</a>
 
-<!-- BANNER INFERIOR EM DEGRADÊ ROXO -->
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:7C3AED,100:4C1D95&height=140&section=footer" />
+<!-- BANNER INFERIOR EM DEGRADÊ PRETO E CINZA -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:777777,50:333333,100:000000&height=140&section=footer" />
 
 </div>
