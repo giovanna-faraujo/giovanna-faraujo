@@ -64,15 +64,12 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 
 ## Projetos em destaque
 
-**Escolha um tema para explorar:**
-
-Clique nas setas abaixo para ver a descrição e as ferramentas de cada projeto.
 
 ### Redes, acessos e Cibersegurança
 
 <a name="controle-de-acesso"></a>
 
-<details open>
+<details>
 <summary><strong>Controle de acesso, email e arquivos</strong> · Quem pode acessar e o que pode fazer?</summary>
 
 Laboratório para entender como autenticar usuários e controlar suas permissões de acesso à rede e aos arquivos.
