@@ -12,7 +12,7 @@
   <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI" />
 </a>
 
-> Ceará, Brasil
+📍 Ceará, Brasil
 
 <br>
 
