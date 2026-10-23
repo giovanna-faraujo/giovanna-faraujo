@@ -41,13 +41,7 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/SUPORTE_DE_TI-6D28D9?style=flat-square" alt="Suporte de TI">
-<img src="https://img.shields.io/badge/IDENTIDADES_E_ACESSOS-7C3AED?style=flat-square" alt="Identidades e acessos">
-<img src="https://img.shields.io/badge/CIBERSEGURANÇA-8B5CF6?style=flat-square" alt="Cibersegurança">
-
-</div>
+---
 
 <img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
 
