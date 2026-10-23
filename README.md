@@ -60,16 +60,11 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 | **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-8B5CF6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-8B5CF6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-8B5CF6?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autenticação-8B5CF6?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privilégio-8B5CF6?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Proteção_de_dados-8B5CF6?style=flat-square) |
 | **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-A855F7?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-A855F7?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-A855F7?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relatórios-A855F7?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organização_de_processos-A855F7?style=flat-square) |
 
+---
+
 ## Projetos em destaque
 
 **Escolha um tema para explorar:**
-
-| Redes, acessos e Cibersegurança | Dados e indicadores |
-| --- | --- |
-| [Controle de acesso, email e arquivos](#controle-de-acesso) | [Dashboard de vendas](#dashboard-vendas) |
-| [Análise de riscos em Cibersegurança](#analise-riscos) | [Dashboard de RH](#dashboard-rh) |
-| [Segurança de aplicações web](#seguranca-web) | [Análise de vendas com SQL e Excel](#vendas-sql-excel) |
-| [Conexão entre três redes IPv4](#redes-ipv4) | |
 
 Clique nas setas abaixo para ver a descrição e as ferramentas de cada projeto.
 
@@ -135,6 +130,8 @@ Simulação de três redes conectadas por um roteador, demonstrando como diferen
 
 </details>
 
+---
+
 ### Dados e indicadores
 
 <a name="dashboard-vendas"></a>
@@ -182,6 +179,8 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 </details>
 
+---
+
 ## Inteligência Artificial
 
 Também compartilho projetos e laboratórios nos quais exploro **Gemini, NotebookLM e Google AI Studio** para apoiar atividades de pesquisa, planejamento, comunicação e análise.
@@ -208,6 +207,8 @@ Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
 <img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
 
 <div align="center">
+
+---
 
 **Quer conhecer mais sobre minha trajetória e meus projetos?**
 
