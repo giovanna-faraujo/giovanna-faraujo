@@ -209,10 +209,6 @@ Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
 
 <br>
 
-<a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img alt="Vamos conversar?" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&height=40&lines=Obrigada+pela+visita!;Vamos+conversar+sobre+dados+e+acessos%3F;Clique+aqui+e+conhe%C3%A7a+meu+portf%C3%B3lio" />
-</a>
-
 <a href="#topo">↑ Voltar ao início</a>
 
 <!-- BANNER INFERIOR EM DEGRADÊ ROXO -->
