@@ -9,7 +9,7 @@
 
 <!-- TEXTO DIGITANDO -->
 <a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1+%C2%B7+Service+Desk;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI%2C+SQL+e+Excel;Atendimento+em+portugu%C3%AAs+e+espanhol;Dispon%C3%ADvel+para+trabalho+remoto" />
+  <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1+%C2%B7;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI%2C+SQL+e+Excel;Atendimento+em+portugu%C3%AAs+e+espanhol;Dispon%C3%ADvel+para+trabalho+remoto" />
 </a>
 
 Ceará, Brasil · Disponível para trabalho remoto
