@@ -168,7 +168,7 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 ---
 
-> **Sobre os projetos:** os laboratórios são atividades e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em ambientes corporativos reais.
+> **Sobre os projetos:** os laboratórios são atividades e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em empresas reais.
 
 <!--
 ===== EFEITO OPCIONAL: COBRINHA NO GRÁFICO DE CONTRIBUIÇÕES =====
