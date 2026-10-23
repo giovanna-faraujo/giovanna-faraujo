@@ -201,12 +201,6 @@ Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
 
 ---
 
-**Quer conhecer mais sobre minha trajetória e meus projetos?**
-
-<a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/ACESSE_MEU_PORTFÓLIO-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Acesse meu portfólio">
-</a>
-
 <br>
 
 <a href="#topo">↑ Voltar ao início</a>
