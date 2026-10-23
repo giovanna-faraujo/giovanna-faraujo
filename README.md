@@ -178,12 +178,6 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 ---
 
-## Inteligência Artificial
-
-Também compartilho projetos e laboratórios nos quais exploro **Gemini, NotebookLM e Google AI Studio** para apoiar atividades de pesquisa, planejamento, comunicação e análise.
-
-[**Explorar os projetos de IA →**](https://github.com/giovanna-faraujo/IA_Google--Labs)
-
 > **Sobre os projetos:** os laboratórios são atividades e simulações que demonstram os conhecimentos praticados. Não representam implantações realizadas em ambientes corporativos reais.
 
 <!--
