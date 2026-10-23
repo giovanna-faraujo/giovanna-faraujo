@@ -41,10 +41,6 @@ Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimento
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:C084FC&height=2" />
 
----
-
-<img width="100%" height="5" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:C084FC,50:7C3AED,100:4C1D95&height=5" />
-
 ## Ferramentas e conhecimentos
 
 | Área | Ferramentas e conhecimentos |
