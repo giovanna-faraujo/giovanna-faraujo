@@ -33,9 +33,9 @@
 
 ## Sobre mim
 
-Atuo com **Suporte de TI e Service Desk**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
+Atuo com **Suporte de TI N1**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
 
-Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança**, buscando oportunidades de nível júnior nessas áreas.
+Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança** de nível júnior nessas áreas.
 
 Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimentos, as ferramentas que utilizo e o que venho aprendendo na prática.
 
