@@ -189,8 +189,6 @@ Para ativar: 1) crie o arquivo .github/workflows/snake.yml (enviado junto)
 
 <div align="center">
 
----
-
 <br>
 
 <a href="#topo">↑ Voltar ao início</a>
