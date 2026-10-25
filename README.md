@@ -15,7 +15,7 @@
   </picture>
 </a>
 
-<p>Ceará, Brasil</p>
+<p>📍 Ceará, Brasil</p>
 
 <br>
 
