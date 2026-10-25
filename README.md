@@ -39,7 +39,7 @@ Atuo com **Suporte de TI N1**, atendendo usuários do Brasil e do México, em po
 
 Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança**, buscando oportunidades de nível júnior nessas áreas.
 
-Neste GitHub, compartilho projetos e laboratórios que mostram meus conhecimentos, as ferramentas que utilizo e o que venho aprendendo na prática.
+Aqui, compartilho projetos de estudo e laboratórios, com registros do que pratiquei, das ferramentas utilizadas e dos principais aprendizados.
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:333333,100:777777&height=2" />
 
