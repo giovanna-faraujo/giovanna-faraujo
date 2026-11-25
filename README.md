@@ -1,4 +1,4 @@
-<a name="topo"></a>
+ <a name="topo"></a>
 
 <div align="center">
 
@@ -7,25 +7,26 @@
 
 <h1>Olá, eu sou a Giovanna</h1>
 
-<!-- TEXTO ANIMADO ADAPTADO AO TEMA DO GITHUB -->
-<a href="https://giovanna-faraujo.github.io/portfolio/">
+<!-- TEXTO ANIMADO -->
+<a href="https://gitfollio.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=E5E5E5&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI">
     <img alt="Suporte de TI, IAM, Cibersegurança e Dados" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=111111&center=true&vCenter=true&width=760&height=45&lines=Suporte+de+TI+N1;Gest%C3%A3o+de+Identidades+e+Acessos+(IAM);Ciberseguran%C3%A7a+e+Redes;Dados+com+Power+BI">
   </picture>
 </a>
 
-<p>📍 Ceará, Brasil</p>
+<p>📍 Ceará, Brasil · Disponível para trabalho remoto</p>
 
 <br>
 
-<a href="https://giovanna-faraujo.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-333333?style=for-the-badge&logo=githubpages&logoColor=white" alt="Conheça meu portfólio completo">
+<a href="https://gitfollio.vercel.app/">
+  <img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-333333?style=for-the-badge&logo=github&logoColor=white" alt="Conheça meu portfólio completo">
 </a>
 
 <br><br>
 
 <a href="#sobre-mim">Sobre mim</a> ·
+<a href="#certificacoes">Certificação</a> ·
 <a href="#ferramentas-e-conhecimentos">Ferramentas</a> ·
 <a href="#projetos-em-destaque">Projetos</a>
 
@@ -35,11 +36,41 @@
 
 ## Sobre mim
 
-Atuo com **Suporte de TI N1**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, solicitações de acesso e documentação de processos.
+Atuo com **Suporte de TI N1**, atendendo usuários do Brasil e do México, em português e espanhol. Tenho experiência na resolução de problemas técnicos, acompanhamento de chamados, contato com solicitações de acesso e documentação de processos.
 
-Atualmente, estou direcionando meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança**, buscando oportunidades de nível júnior nessas áreas.
+Sou formada em Análise e Desenvolvimento de Sistemas e direciono meu desenvolvimento profissional para **Gestão de Identidades e Acessos (IAM) e Cibersegurança**.
 
-Aqui, compartilho projetos de estudo e laboratórios, com registros do que pratiquei, das ferramentas utilizadas e dos principais aprendizados.
+Aqui compartilho projetos de estudo e laboratórios práticos, com registros dos conhecimentos aplicados, ferramentas utilizadas e principais aprendizados.
+
+**Idiomas:** Português nativo · Espanhol intermediário · Inglês básico técnico, em desenvolvimento.
+
+---
+
+<a name="certificacoes"></a>
+
+## Certificações
+
+<div align="center">
+
+<a href="./CCST-Cybersecurity-Certificate.pdf">
+  <img src="https://img.shields.io/badge/CISCO-CCST_CYBERSECURITY-333333?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCST Cybersecurity">
+</a>
+
+### Cisco Certified Support Technician (CCST) Cybersecurity
+
+**Status: Aprovada**
+
+Certificação conquistada em novembro de 2026.
+
+**Validade: novembro de 2031.**
+
+<a href="./CCST-Cybersecurity-Certificate.pdf">
+  <img src="https://img.shields.io/badge/VER_CERTIFICADO_PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Visualizar certificado em PDF">
+</a>
+
+</div>
+
+---
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:333333,100:777777&height=2" />
 
@@ -48,8 +79,8 @@ Aqui, compartilho projetos de estudo e laboratórios, com registros do que prati
 | Área | Ferramentas e conhecimentos |
 | --- | --- |
 | **Suporte de TI** | ![ServiceNow](https://img.shields.io/badge/ServiceNow-333333?style=flat-square&logo=servicenow&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-333333?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-333333?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-333333?style=flat-square) ![Suporte remoto](https://img.shields.io/badge/Suporte_remoto-333333?style=flat-square) ![ERP Protheus](https://img.shields.io/badge/ERP_Protheus-333333?style=flat-square) |
-| **Gestão de acessos (IAM)** | ![Active Directory](https://img.shields.io/badge/Active_Directory-333333?style=flat-square) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-333333?style=flat-square) ![Contas de usuários](https://img.shields.io/badge/Contas_de_usu%C3%A1rios-333333?style=flat-square) ![Permissões](https://img.shields.io/badge/Permiss%C3%B5es-333333?style=flat-square) |
-| **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-333333?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=flat-square&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333333?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-333333?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privil%C3%A9gio-333333?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Prote%C3%A7%C3%A3o_de_dados-333333?style=flat-square) |
+| **Gestão de acessos (IAM)** | ![Active Directory](https://img.shields.io/badge/Active_Directory-333333?style=flat-square) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-333333?style=flat-square) ![Autenticação](https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-333333?style=flat-square) ![Autorização](https://img.shields.io/badge/Autoriza%C3%A7%C3%A3o-333333?style=flat-square) ![Menor privilégio](https://img.shields.io/badge/Menor_privil%C3%A9gio-333333?style=flat-square) |
+| **Redes e Cibersegurança** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-333333?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=flat-square&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333333?style=flat-square) ![Segurança de endpoints](https://img.shields.io/badge/Seguran%C3%A7a_de_endpoints-333333?style=flat-square) ![Proteção de dados](https://img.shields.io/badge/Prote%C3%A7%C3%A3o_de_dados-333333?style=flat-square) |
 | **Dados e produtividade** | ![Power BI](https://img.shields.io/badge/Power_BI-333333?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-333333?style=flat-square) ![Relatórios](https://img.shields.io/badge/Relat%C3%B3rios-333333?style=flat-square) ![Organização de processos](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o_de_processos-333333?style=flat-square) |
 
 ---
@@ -179,7 +210,7 @@ Consultas SQL e dashboard para acompanhar receita, conversão e ticket médio.
 
 <a href="#topo">↑ Voltar ao início</a>
 
-<!-- BANNER INFERIOR EM DEGRADÊ PRETO E CINZA -->
+<!-- BANNER INFERIOR -->
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:777777,50:333333,100:000000&height=140&section=footer" />
 
 </div>
